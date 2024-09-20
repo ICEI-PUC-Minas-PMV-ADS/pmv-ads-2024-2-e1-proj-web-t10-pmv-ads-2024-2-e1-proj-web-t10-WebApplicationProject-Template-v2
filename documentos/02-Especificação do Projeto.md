@@ -92,15 +92,15 @@ público e bancos.
 
 [Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE`         |PARA ... `PORQUE`                |
-|--------------------|-----------------------------------|----------------------------------|
+|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE`         |PARA ... `PORQUE`               |
+|--------------------|-----------------------------------|--------------------------------|
 | Aposentado         | Ter acesso fácil às plataformas   |que eu possa gerenciar
 |                    |  do governo para consultar        |meus benefícios de forma
 |                    |  informaçoes sobre minha          |independente e sem
 |                    |aposentadoria e benefícios,        |dificuldades, evitando filas e
 |                    |u s a n d o u m a i n t e r f a c e|consultas presenciais
-|                    | simplificada.                                                        |
-|| Assistente de idosos|ter acesso fácil às plataformas   |que eu possa orientar e         |
+|                    | simplificada.                                                      |
+|Assistente de idosos|ter acesso fácil às plataformas   |que eu possa orientar e          |
 |                     |do governo para consultar         |apoiar os idosos de forma
 |                     | informações sobre minha          |eficaz, garantindo que eles
 |                     |aposentadoria e benefícios,       |possam acessar e utilizar
