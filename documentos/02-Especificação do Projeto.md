@@ -158,6 +158,17 @@ público e bancos.
 |       |  menu intuitivo, em que  |       |
 |       | cada aba seja um tipo de |       |
 |       | serviço                  |       |
+|RF- 06 |A aplicação deve permitir | BAIXA |
+|       |ao usuário cadastrar uma  |       |
+|       |conta                     |       |
+|RF- 07 |A aplicação deve permitir | BAIXA |
+|       |ao usuário fazer o login  |       |
+|       |da sua conta              |       |
+
+
+
+
+
 
 **Prioridade: Alta / Média / Baixa. 
 
