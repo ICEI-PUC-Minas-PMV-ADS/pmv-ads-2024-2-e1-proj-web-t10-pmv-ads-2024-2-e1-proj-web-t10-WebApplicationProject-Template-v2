@@ -7,7 +7,7 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil1: Aposentado</th>
+<th colspan="2">Perfil 1: Aposentado</th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
@@ -29,11 +29,69 @@ plataformas.</td>
 <table>
 <tbody>
 <tr align=center>
+<th colspan="2">Perfil 2: Assistente de idosos </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Adultos e jovens que assistem idosos.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>1. Plataforma que centralize todos os sites mais utilizados por idosos para
+orienta-los.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 3: Idoso trabalhador </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Pessoa com mais de 60 anos que continua trabalhando.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+  1. Acesso às plataformas do governo voltadas ao trabalhador, como a
+Carteira de Trabalho Digital.
+
+  2. Acesso às plataformas da Caixa Econômica Federal voltadas ao
+trabalhador, como os aplicativos Caixa Trabalhador e FGTS.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 4: Deficiente visual </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Pessoa com deficiência visual e pouca habilidade com tecnologias.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>...</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
 <th colspan="2">Perfil Nome </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">
+  1. Plataforma que centralize todos os sites mais utilizados de serviço
+público e bancos.
+
+  2. Interface acessível, com suporte para leitores de tela.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
