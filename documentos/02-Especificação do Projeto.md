@@ -92,15 +92,15 @@ público e bancos.
 
 [Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|---------------------------|----------------------------------|
-| Aposentado         | Ter acesso fácil às plataformas
-|                    |  do governo para consultar
-|                    |  informaçoes sobre minha
-|                    |aposentadoria e benefícios,
-|                    |u s a n d o u m a i n t e r f a c e
-|                    | simplificada.                                                   |
-| ...                | ...                       | ...                              |
+|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE`         |PARA ... `PORQUE`                |
+|--------------------|-----------------------------------|----------------------------------|
+| Aposentado         | Ter acesso fácil às plataformas   |que eu possa gerenciar
+|                    |  do governo para consultar        |meus benefícios de forma
+|                    |  informaçoes sobre minha          |independente e sem
+|                    |aposentadoria e benefícios,        |dificuldades, evitando filas e
+|                    |u s a n d o u m a i n t e r f a c e|consultas presenciais
+|                    | simplificada.                                                        |
+| ...                | ...                               | ...                              |
 
 
 
