@@ -112,20 +112,13 @@ público e bancos.
 |                     |além de acessar informações      |dificuldades tecnológicas.
 |                     |importantes relacionadas ao meu  |
 |                     |trabalho de forma simples.       |
-|Deficiente visual    |utilizar uma plataforma que      |que eu possa obter as         |
+|Deficiente visual    |utilizar uma plataforma que      |que eu possa obter as        |
 |                     |ofereça recursos de              |informações necessárias de
 |                     |acessibilidade, como leitores de |forma independente. 
 |                     |tela e opções de contraste alto, |
 |                     |para navegar facilmente e        |
 |                     |encontrar informações sobre      |     
 |                     |serviços públicos.               |
-
-
-
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
 
