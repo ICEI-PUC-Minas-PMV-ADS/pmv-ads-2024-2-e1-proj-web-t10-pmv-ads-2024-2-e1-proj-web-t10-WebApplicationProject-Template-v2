@@ -57,9 +57,17 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+As ferramentas empregadas neste projeto são:
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+	•	Editor de código (Visual Studio Code)
+	•	Ferramentas de comunicação (Teams, Gmail)
+	•	Ferramentas de ideação (Miro)
+	•	Ferramentas de prototipação (Figma)
+
+O editor de código foi selecionado por ser o mais intuitivo e aplicado no mercado. As ferramentas de comunicação seguem o mesmo padrão, além de serem utilizadas pela instituição. Para a ideação o Miro foi utilizado para ser trabalhado como um quadro de desenho rápidos enquanto o grupo discute ideias. Por fim foi usado o Figma para o desenho das telas.
+
+<p>Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Figma, apresentadas com seu propósito na tabela que se segue.<p/>
+
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
