@@ -175,8 +175,22 @@ público e bancos.
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RNF-01 |Garantir que o sistema   |     | 
+|        |funcione adequadamente em| ALTA  | 
+|        |diferentes navegadores . |       | 
+| RNF-02 |A aplicação deve ser     |       | 
+|        |responsiva, sendo        |       | 
+|        |compatível com diferentes|       | 
+|        |navegadores e dispositivos,|ALTA | 
+|        |incluindo dispositivos   |       | 
+|        |móveis, para garantir que|       | 
+|        |todos os usuários possam |       | 
+| RNF-03 |O design deve ser        |       | 
+|        |intuitivo e fácil de usar,|      | 
+|        | especialmente para o    | ALTA  | 
+|        |público-alvo de usuários |       | 
+|        |com pouca experiência    |       | 
+|        |tecnológica.             |       | 
 
 **Prioridade: Alta / Média / Baixa. 
 
