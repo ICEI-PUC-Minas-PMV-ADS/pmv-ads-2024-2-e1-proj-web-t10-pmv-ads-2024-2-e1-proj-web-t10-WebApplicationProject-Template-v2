@@ -75,7 +75,10 @@ trabalhador, como os aplicativos Caixa Trabalhador e FGTS.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>  1. Plataforma que centralize todos os sites mais utilizados de serviço
+público e bancos.
+
+  2. Interface acessível, com suporte para leitores de tela.</td>
 </tr>
 </tbody>
 </table>
@@ -87,11 +90,7 @@ trabalhador, como os aplicativos Caixa Trabalhador e FGTS.</td>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">
-  1. Plataforma que centralize todos os sites mais utilizados de serviço
-público e bancos.
-
-  2. Interface acessível, com suporte para leitores de tela.</td>
+<td width="600px">...</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
