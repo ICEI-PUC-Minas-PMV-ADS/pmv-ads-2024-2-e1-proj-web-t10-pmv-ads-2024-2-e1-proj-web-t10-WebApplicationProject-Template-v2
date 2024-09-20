@@ -94,6 +94,18 @@ público e bancos.
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
+| ...                | ...  ter acesso fácil às plataformas
+do governo para consultar
+i n f o r m a ç õ e s s o b r e m i n h a
+aposentadoria e benefícios,
+u s a n d o u m a i n t e r f a c e
+simplificada                     | ...                              |
+| ...                | ...                       | ...                              |
+
+
+
+|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
+|--------------------|---------------------------|----------------------------------|
 | ...                | ...                       | ...                              |
 | ...                | ...                       | ...                              |
 
