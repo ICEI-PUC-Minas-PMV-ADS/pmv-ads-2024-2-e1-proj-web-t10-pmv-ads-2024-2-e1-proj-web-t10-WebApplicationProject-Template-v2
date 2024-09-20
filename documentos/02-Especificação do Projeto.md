@@ -95,11 +95,11 @@ público e bancos.
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
 | Aposentado         | Ter acesso fácil às plataformas
-                       do governo para consultar
+                      do governo para consultar
                        informaçoes sobre minha
                      aposentadoria e benefícios,
                     u s a n d o u m a i n t e r f a c e
-                     simplificada                     | ...                              |
+                     simplificada.                                                   |
 | ...                | ...                       | ...                              |
 
 
