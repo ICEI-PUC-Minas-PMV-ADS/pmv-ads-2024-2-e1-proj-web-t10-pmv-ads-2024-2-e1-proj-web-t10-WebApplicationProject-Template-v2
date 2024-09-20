@@ -154,6 +154,10 @@ público e bancos.
 |       | descrição adequada de    |       |
 |       | imagens e  elementos     |       |
 |       | gráficos                 |       |
+|RF- 05 |A aplicação deve possuir  | ALTA  |
+|       |  menu intuitivo, em que  |       |
+|       | cada aba seja um tipo de |       |
+|       | serviço                  |       |
 
 **Prioridade: Alta / Média / Baixa. 
 
