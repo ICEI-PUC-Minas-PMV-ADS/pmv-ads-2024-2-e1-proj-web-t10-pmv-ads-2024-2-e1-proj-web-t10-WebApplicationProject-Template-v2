@@ -17,9 +17,10 @@
 <tr>
 <td><b>Necessidades</b></td>
 <td>1. Acesso às plataformas do governo com informações sobre
-aposentadoria e benefícios
-2. Tutoriais com mídias diversificadas sobre como navegar nas
-plataformas</td>
+aposentadoria e benefícios.
+
+  2. Tutoriais com mídias diversificadas sobre como navegar nas
+plataformas.</td>
 </tr>
 </tbody>
 </table>
