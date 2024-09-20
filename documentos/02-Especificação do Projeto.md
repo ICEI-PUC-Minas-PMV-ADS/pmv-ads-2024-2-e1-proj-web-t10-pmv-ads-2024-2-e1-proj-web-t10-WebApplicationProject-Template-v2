@@ -106,6 +106,12 @@ público e bancos.
 |                     |aposentadoria e benefícios,       |possam acessar e utilizar
 |                     |usando uma interface              |tecnologias e serviços
 |                     |simplificada.                     |digitais sem dificuldades.
+|Idoso trabalhador    |acessar uma plataforma que me    |que eu possa manter minha          |
+|                     |permita encontrar facilmente     |vida profissional e financeira
+|                     |serviços bancários e públicos,   |organizada, sem enfrentar 
+|                     |além de acessar informações      |dificuldades tecnológicas.
+|                     |importantes relacionadas ao meu  |
+|                     |trabalho de forma simples.       |
 |
 |
 
