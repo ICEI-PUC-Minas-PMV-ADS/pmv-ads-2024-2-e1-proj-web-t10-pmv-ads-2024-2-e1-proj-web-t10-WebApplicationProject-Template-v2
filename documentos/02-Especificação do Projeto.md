@@ -100,7 +100,14 @@ público e bancos.
 |                    |aposentadoria e benefícios,        |dificuldades, evitando filas e
 |                    |u s a n d o u m a i n t e r f a c e|consultas presenciais
 |                    | simplificada.                                                        |
-| ...                | ...                               | ...                              |
+|| Assistente de idosos|ter acesso fácil às plataformas   |que eu possa orientar e         |
+|                     |do governo para consultar         |apoiar os idosos de forma
+|                     | informações sobre minha          |eficaz, garantindo que eles
+|                     |aposentadoria e benefícios,       |possam acessar e utilizar
+|                     |usando uma interface              |tecnologias e serviços
+|                     |simplificada.                     |digitais sem dificuldades.
+|
+|
 
 
 
