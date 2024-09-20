@@ -117,10 +117,14 @@ público e bancos.
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|ID    | Descrição                | Prioridade |
-|-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+|ID     | Descrição               | Prioridade|
+|-------|-------------------------------------|
+| RF-01 | A aplicação deve possuir|
+        |  um filtro de busca para |
+        |  que o usuário encontre  |
+        |  facilmente o serviço    |
+        |  que procura             | ...   | 
+|  ...  |  ...                     | ...   |
 
 **Prioridade: Alta / Média / Baixa. 
 
