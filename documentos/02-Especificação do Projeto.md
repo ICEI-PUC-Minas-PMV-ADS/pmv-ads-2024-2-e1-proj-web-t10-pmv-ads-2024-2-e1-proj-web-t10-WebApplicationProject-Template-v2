@@ -127,10 +127,10 @@ público e bancos.
 |ID     | Descrição               | Prioridade|
 |-------|----------------------------------|---|
 | RF-01 | A aplicação deve possuir |       |
-        |  um filtro de busca para |       |
-        |  que o usuário encontre  |       |
-        |  facilmente o serviço    |       |
-        |  que procura             | ...   | 
+|       |  um filtro de busca para |       |
+|       |  que o usuário encontre  |       |
+|       |  facilmente o serviço    |       |
+|       |  que procura             | ...   | 
 |  ...  |  ...                     | ...   |
 
 **Prioridade: Alta / Média / Baixa. 
