@@ -157,7 +157,7 @@ público e bancos.
 |RF- 07 |A aplicação deve permitir | BAIXA |
 |       |ao usuário fazer o login  |       |
 |       |da sua conta              |       |
-|RF- 08 |A aplicação deve permitir |       |
+|RF- 08 |A aplicação deve permitir | BAIXA |
 |       |que o usuário salve os    |       |
 |       |principais sites que      |       |
 |       |utiliza                   |       |
