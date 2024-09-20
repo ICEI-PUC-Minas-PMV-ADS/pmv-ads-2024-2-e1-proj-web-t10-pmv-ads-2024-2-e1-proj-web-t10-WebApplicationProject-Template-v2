@@ -144,10 +144,16 @@ público e bancos.
 |       |  que procura             |       | 
 | RF- 02|A aplicação deve possuir  | ALTA  |
 |       | opção de alto contraste  |       |
-|RF- 03 |A aplicação deve possuir  |       |
+|RF- 03 |A aplicação deve possuir  | ALTA  |
 |       | opção para alterar o     |       |
 |       | tamanho da fonte         |       |
-
+|RF- 04 |A aplicação deve ser      | ALTA  |
+|       |  compatível com leitores |       |
+|       |  de tela, utilizando     |       |
+|       | corretamente as tags e   |       |
+|       | descrição adequada de    |       |
+|       | imagens e  elementos     |       |
+|       | gráficos                 |       |
 
 **Prioridade: Alta / Média / Baixa. 
 
