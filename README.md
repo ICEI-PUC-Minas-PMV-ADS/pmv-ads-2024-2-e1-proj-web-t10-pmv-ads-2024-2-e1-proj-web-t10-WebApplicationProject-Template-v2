@@ -6,7 +6,7 @@
 
 `2024/2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+A inclusão digital é essencial para a cidadania, mas muitos, especialmente os idosos, enfrentam dificuldades com tecnologias. O projeto "Cidadania Digital" visa simplificar o acesso a serviços essenciais, como sites governamentais e ferramentas essenciais, por meio de uma plataforma inclusiva que oferece guias e tutoriais. O objetivo é promover a autonomia dos usuários e facilitar o acesso a informações importantes de maneira rápida e sem constrangimentos.
 
 ## Integrantes
 
