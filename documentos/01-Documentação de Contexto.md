@@ -1,35 +1,23 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+Nos últimos anos, o cenário dos E-sports tem ganhado grande destaque, tornando-se um dos segmentos mais lucrativos da indústria de entretenimento. Com milhões de espectadores e eventos internacionais de grande porte, o mundo dos E-sports tem atraído uma audiência bastante engajada, gerando assim uma grande demanda de produtos e serviços. 
+ 
+Diante desse contexto, a compra e venda de skins, elementos virtuais que modificam a aparência dos personagens e equipamentos nos jogos, vem se tornando cada vez mais comum e lucrativa.
+
+Nosso projeto a “Shelf Games” é uma plataforma social que abrange diversos jogadores, com um único interesse, a compra e venda de skins. Dentro da rede social, podendo comprar e vender skins anunciadas e caso acheviável pelo valor oferecido, adquiri-las com total segurança e eficiência.
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-
+O problema que irá ser abordado, e que esse projeto visa solucionar, é a ausência de uma ferramenta que faça com agilidade e segurança transações de compras e vendas de skins de jogos. A falta dessa ferramenta traz muitos transtornos aos jogadores, como exemplo os roubos, fraudes e estelionatos, gerando assim uma longa dor de cabeça para os gamers.
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+O objetivo deste projeto é o desenvolvimento de uma solução segura, que permita que jogadores consigam buscar skins especificas e realizarem suas transações de uma forma fácil e intuitiva.
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
-
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
-
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Diversas fraudes ocorrem diariamente em todos os jogos onlines que permitem trocas de skins, e a empresa que fornece esse serviço não é segura, e segundo relatos, usuarios já sofreram com fraudes. Diante disso, se torna imprescindível a existência de um site seguro e eficaz para que todas as transações sejam feitas com total segurança. Com o comprador podendo ver as classificações/avaliações reais do vendedor e visse e versa, o usuário sentirá mais segurança ao realizar suas compras/vendas.
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
-
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-
+O público-alvo são os “gamers” que possuem interesse em comercializar ou adiquirir skins de jogos.
