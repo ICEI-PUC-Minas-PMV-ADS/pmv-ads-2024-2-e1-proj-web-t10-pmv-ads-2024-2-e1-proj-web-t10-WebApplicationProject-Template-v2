@@ -134,14 +134,19 @@ público e bancos.
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|ID     | Descrição               | Prioridade|
-|-------|----------------------------------|---|
-| RF-01 | A aplicação deve possuir |       |
+|ID     | Descrição                |Prioridade|
+|-------|----------------------------------|--|
+| RF-01 | A aplicação deve possuir | MEDIA |
 |       |  um filtro de busca para |       |
 |       |  que o usuário encontre  |       |
 |       |  facilmente o serviço    |       |
-|       |  que procura             | ...   | 
-|  ...  |  ...                     | ...   |
+|       |  que procura             |       | 
+| RF- 02|A aplicação deve possuir  | ALTA  |
+|       | opção de alto contraste  |       |
+|RF- 03 |A aplicação deve possuir  |       |
+|       | opção para alterar o     |       |
+|       | tamanho da fonte         |       |
+
 
 **Prioridade: Alta / Média / Baixa. 
 
