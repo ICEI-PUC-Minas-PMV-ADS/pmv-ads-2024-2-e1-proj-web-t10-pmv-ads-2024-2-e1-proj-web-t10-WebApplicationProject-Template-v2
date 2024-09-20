@@ -7,6 +7,26 @@
 <table>
 <tbody>
 <tr align=center>
+<th colspan="2">Perfil1: Aposentado</th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Pessoa acima de 60 anos 
+</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>1. Acesso às plataformas do governo com informações sobre
+aposentadoria e benefícios
+2. Tutoriais com mídias diversificadas sobre como navegar nas
+plataformas</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
 <th colspan="2">Perfil Nome </th>
 </tr>
 <tr>
@@ -19,7 +39,6 @@
 </tr>
 </tbody>
 </table>
-
 
 ## Histórias de Usuários
 
