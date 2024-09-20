@@ -1,10 +1,10 @@
-# Título do Projeto
+# Cidadania Digital
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`2024/2`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
