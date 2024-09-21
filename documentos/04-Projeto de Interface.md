@@ -5,9 +5,9 @@
 
 Para o desenvolvimento do user flow foi inicialmente necessário levantar o atual fluxo de trabalho empregado pelos usuários (de maneira não digital) para que se pudesse observar pontos de melhoria e pontos que no digital poderiam ser feitos de forma totalmente automática. Ao fim desse levantamento tivemos em mãos um rascunho, que se encontra abaixo, do que viria a ser nosso user flow.
 
-###Rascunho: 
+### Rascunho: 
 
-    ![image](https://github.com/user-attachments/assets/a14c137c-cc1f-486d-bd43-cde440f15ee3)
+![image](https://github.com/user-attachments/assets/a14c137c-cc1f-486d-bd43-cde440f15ee3)
 
 <figure>
 <figcaption> Figura 1 - Rascunho do User Flow
@@ -15,9 +15,9 @@ Para o desenvolvimento do user flow foi inicialmente necessário levantar o atua
 
 Por fim, pudemos definir quais telas e quando se apresentariam para o usuário, finalizando assim, o user flow. Para visualizar melhor acesse o Miro.
 
-###User flow: 
+### User flow: 
 
-    ![image](https://github.com/user-attachments/assets/48a939bd-7f2d-4150-bb9a-4bd3870203d9)
+![image](https://github.com/user-attachments/assets/48a939bd-7f2d-4150-bb9a-4bd3870203d9)
 
 <figure> 
     <figcaption>Figura 2 - User Flow
