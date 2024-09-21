@@ -15,7 +15,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Italo Poccheshy
 * Mellyssa Rabelo
 * Luana Gomes
-* Nome completo do aluno 6
 
 ## Orientador
 
