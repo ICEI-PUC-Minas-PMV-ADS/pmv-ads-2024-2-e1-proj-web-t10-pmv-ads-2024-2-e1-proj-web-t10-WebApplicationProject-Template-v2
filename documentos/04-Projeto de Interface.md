@@ -12,6 +12,7 @@ Para o desenvolvimento do user flow foi inicialmente necessário levantar o atua
 <figure>
 <figcaption> Figura 1 - Rascunho do User Flow
 </figure>
+<br>
 
 Por fim, pudemos definir quais telas e quando se apresentariam para o usuário, finalizando assim, o user flow. Para visualizar melhor acesse o Miro.
 
