@@ -9,9 +9,8 @@ Para o desenvolvimento do user flow foi inicialmente necessário levantar o atua
 
 ![image](https://github.com/user-attachments/assets/a14c137c-cc1f-486d-bd43-cde440f15ee3)
 
-<figure>
-<figcaption> Figura 1 - Rascunho do User Flow
-</figure>
+Figura 1 - Rascunho do User Flow
+
 <br>
     
 
