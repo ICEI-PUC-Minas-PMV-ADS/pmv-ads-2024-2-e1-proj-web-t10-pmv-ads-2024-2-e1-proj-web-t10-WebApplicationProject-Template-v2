@@ -13,10 +13,10 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 [Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: ( Mateus Falcão) Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: ( Everton Souza, Wasley Both), representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: (Matheus Falcão, Ìtalo, Melyssa, Everton, Wasley, Luana) , pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: ( Melyssa) Nomes dos membros da equipe que trabalharão com design.
+- Scrum Master: (Mateus Falcão) Nome de um membro da equipe, principal responsável pela gestão do projeto.
+- Product Owner: (Everton Souza, Wasley Both), representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
+- Equipe de Desenvolvimento: (Matheus Falcão, Ìtalo, Melyssa, Everton, Wasley, Luana), pois todos os membros deverão implementar uma tela/funcionalidade.
+- Equipe de Design: ( Mellyssa Rabelo) Nomes dos membros da equipe que trabalharão com design.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
