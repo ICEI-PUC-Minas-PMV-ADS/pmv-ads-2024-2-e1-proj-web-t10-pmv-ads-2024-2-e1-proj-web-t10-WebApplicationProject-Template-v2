@@ -31,13 +31,13 @@ Devido a complexidade do projeto, foi escolhida a visão usuário para realizar 
 
 ### Login:
 
-<p><img src="FacilitaSUS - Login.jpg" alt="login-gov"></p>
+<p><img src="img/FacilitaSUS - Login.jpg" alt="login-gov"></p>
 
 Nesta tela, o usuário poderá escolher entre: cadastrar-se via gov.br ou entrar com sua conta pré existente. Essa funcionalidade garante que o sistema já utilize dados pré cadastrados e histórico dos usuários no SUS.
 
 ### Home:
 
-<p><img src="FacilitaSUS - Home.jpg" alt="home"></p>
+<p><img src="img/FacilitaSUS - Home.jpg" alt="home"></p>
 
 Tela inicial pós login, o usuário visualizará suas informações e opções pessoais ao lado esquerdo. No centro da tela terá opções que levarão a outras telas. 
 
