@@ -24,24 +24,20 @@ Por fim, pudemos definir quais telas e quando se apresentariam para o usuário, 
     <figcaption>Figura 2 - User Flow
 </figure>
 
-## Protótipo
-
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
 
 ### Protótipo de baixa fidelidade
 
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
+Devido a complexidade do projeto, foi escolhida a visão usuário para realizar o protótipo de baixa fidelidade do projeto, com alguns dos requisitos funcionais mapeados. 
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+### Login:
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+<p><img src="FacilitaSUS - Login.jpg" alt="login-gov"></p>
 
+Nesta tela, o usuário poderá escolher entre: cadastrar-se via gov.br ou entrar com sua conta pré existente. Essa funcionalidade garante que o sistema já utilize dados pré cadastrados e histórico dos usuários no SUS.
 
+### Home:
+
+<p><img src="FacilitaSUS - Home.jpg" alt="home"></p>
+
+Tela inicial pós login, o usuário visualizará suas informações e opções pessoais ao lado esquerdo. No centro da tela terá opções que levarão a outras telas. 
 
