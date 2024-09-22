@@ -10,7 +10,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Everton
+* Everton Souza
 * Mateus Falcão
 * Italo Poccheshy
 * Mellyssa Rabelo
