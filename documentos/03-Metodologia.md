@@ -1,22 +1,18 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
-
 
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
-
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+A metodologia ágil adotada para o desenvolvimento deste projeto foi o SCRUM, que oferece diversos benefícios. Entre eles, destacam-se a clareza na definição dos resultados esperados, o ritmo e a disciplina que conduzem a execução, e a precisa determinação de papéis e responsabilidades dentro da equipe, como as funções de Product Owner, Scrum Master e Time de Desenvolvimento. Além disso, o SCRUM promove o empoderamento dos membros da equipe para superar os desafios propostos, fomenta o compartilhamento colaborativo de conhecimentos, e cria um ambiente propício para a crítica construtiva focada nas ideias, em vez das pessoas (Sabbagh et al., 2020; Mendes & Ribeiro, 2021).
 
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: (Mateus Falcão) Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: (Everton Souza, Wasley Both), representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: (Matheus Falcão, Ìtalo, Melyssa, Everton, Wasley, Luana), pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: ( Mellyssa Rabelo) Nomes dos membros da equipe que trabalharão com design.
+
+- Scrum Master: Mateus Falcão 
+- Product Owner: Everton Souza, Wasley Both
+- Equipe de Desenvolvimento: Matheus Falcão, Ìtalo Pocceschy, Melyssa Rabelo , Everton Souza, Wasley Both, Luana Gomes
+- Equipe de Design: Mellyssa Rabelo
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
