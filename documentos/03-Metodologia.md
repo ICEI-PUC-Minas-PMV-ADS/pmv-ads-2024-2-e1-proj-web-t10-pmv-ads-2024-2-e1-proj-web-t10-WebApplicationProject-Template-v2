@@ -14,24 +14,22 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Equipe de Desenvolvimento: Matheus Falcão, Ìtalo Pocceschy, Melyssa Rabelo , Everton Souza, Wasley Both, Luana Gomes
 - Equipe de Design: Mellyssa Rabelo
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
-- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+Para organização e distribuição das tarefas, a equipe está utilizando o Github Projects, uma ferramenta de gestão de projetos que permite planejar e acompanhar o trabalho de forma eficiente. 
 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+O quadro está estruturado da seguinte forma:
+
+- Backlog: Tarefas que deverão ser realizadas durante todo o projeto, organizadas por etapas.
+- To Do: Tarefas que deverão ser entregues em uma determinada sprint. 
+- Doing: Tarefas que foram designadas para algum dos membros da equipe e que foi iniciado o processo de desenvolvimento. 
+- Done: Tarefas que foram concluídas e enviadas para produção.
+
+Abaixo imagem do GitHub Project utilizado pela equipe:
+
+![Figura 1 - Tela do GitHub Projects utilizada pela equipe](https://github.com/user-attachments/assets/757b1520-f466-4035-bb45-5b5a9ae41df5)
+Figura 1 - Tela do GitHub Projects utilizada pela equipe
 
 
 ### Etiquetas
@@ -50,6 +48,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
     <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
+
   
 ### Ferramentas
 
@@ -65,13 +64,13 @@ O editor de código foi selecionado por ser o mais intuitivo e aplicado no merca
 <p>Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Figma, apresentadas com seu propósito na tabela que se segue.<p/>
 
 
-| AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
-|-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                                      |
+|-------------------------------------|------------------------------------|-----------------------------------------------------|
+| Repositório de código fonte         | GitHub                             | http://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-facilitasus    |
+| Documentos do projeto               | GitHub                             | http://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-facilitasus/blob/main/README.md    |
+| Projeto de Interface                | Figma                              | http://www.figma.com/design/p4zwgoAQEWP3eIaT61xwvP/FacilitaSUS---Prot%C3%B3tipo-%26-Design-System-(Copy)?node-id=702-1743    |
+| Gerenciamento do Projeto            | GitHub Projects                    | http://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-facilitasus/projects    |
+
 
 
 ### Estratégia de Organização de Codificação 
