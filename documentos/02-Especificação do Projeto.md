@@ -135,29 +135,24 @@ público e bancos.
 |       |  que o usuário encontre  |       |
 |       |  facilmente o serviço    |       |
 |       |  que procura             |       | 
-| RF- 02|A aplicação deve possuir  | ALTA  |
-|       | opção de alto contraste  |       |
-|RF- 03 |A aplicação deve possuir  | ALTA  |
-|       | opção para alterar o     |       |
-|       | tamanho da fonte         |       |
-|RF- 04 |A aplicação deve ser      | ALTA  |
-|       |  compatível com leitores |       |
-|       |  de tela, utilizando     |       |
-|       | corretamente as tags e   |       |
-|       | descrição adequada de    |       |
-|       | imagens e  elementos     |       |
-|       | gráficos                 |       |
-|RF- 05 |A aplicação deve possuir  | ALTA  |
+|RF- 02 |Tutoriais mostrando o     | ALTA  |
+|       |passo a passo com imagens |       |
+|       |e explicações em          |       |
+|       |linguagem simples.        |       |
+|RF- 03 |Aplicação com orientações | ALTA  |
+|       |sobre como navegar na     |       |
+|       |internet com segurança.   |       |
+|RF- 04 |A aplicação deve possuir  | ALTA  |
 |       |  menu intuitivo, em que  |       |
 |       | cada aba seja um tipo de |       |
 |       | serviço                  |       |
-|RF- 06 |A aplicação deve permitir | BAIXA |
+|RF- 05 |A aplicação deve permitir | BAIXA |
 |       |ao usuário cadastrar uma  |       |
 |       |conta                     |       |
-|RF- 07 |A aplicação deve permitir | BAIXA |
+|RF- 06 |A aplicação deve permitir | BAIXA |
 |       |ao usuário fazer o login  |       |
 |       |da sua conta              |       |
-|RF- 08 |A aplicação deve permitir | BAIXA |
+|RF- 07 |A aplicação deve permitir | BAIXA |
 |       |que o usuário salve os    |       |
 |       |principais sites que      |       |
 |       |utiliza                   |       |
@@ -175,22 +170,24 @@ público e bancos.
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |Garantir que o sistema   |     | 
-|        |funcione adequadamente em| ALTA  | 
+| RNF-01 |Garantir que o sistema   | ALTA  | 
+|        |funcione adequadamente em|       | 
 |        |diferentes navegadores . |       | 
-| RNF-02 |A aplicação deve ser     |       | 
+| RNF-02 |A aplicação deve ser     | ALTA  | 
 |        |responsiva, sendo        |       | 
 |        |compatível com diferentes|       | 
-|        |navegadores e dispositivos,|ALTA | 
+|        |navegadores e dispositivos,|     | 
 |        |incluindo dispositivos   |       | 
 |        |móveis, para garantir que|       | 
 |        |todos os usuários possam |       | 
-| RNF-03 |O design deve ser        |       | 
+| RNF-03 |O design deve ser        | ALTA  | 
 |        |intuitivo e fácil de usar,|      | 
-|        | especialmente para o    | ALTA  | 
+|        | especialmente para o    |       | 
 |        |público-alvo de usuários |       | 
 |        |com pouca experiência    |       | 
 |        |tecnológica.             |       | 
-
+| RNF-04 |Opções de ajuste de      | ALTA  |
+|        |contraste e tamanho de   |       |
+|        |texto.                   |       |
 **Prioridade: Alta / Média / Baixa. 
 
