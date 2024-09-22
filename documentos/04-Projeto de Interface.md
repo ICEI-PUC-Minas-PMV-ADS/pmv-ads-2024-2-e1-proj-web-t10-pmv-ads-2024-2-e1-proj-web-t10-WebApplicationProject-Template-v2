@@ -73,7 +73,7 @@ Caso o usuário não possua exames agendados, a tela "Meus exames" mostrará a o
 
 ### Resultado de exames:
 
-<p><img src="img/FacilitaSUS - Resultado-exames.jpg" alt="resultado de exames"></p>
+<p><img src="img/FacilitaSUS - Resultado-exame.jpg" alt="resultado de exames"></p>
 
 O usuário consegue consultar seus resultados de exames
 
