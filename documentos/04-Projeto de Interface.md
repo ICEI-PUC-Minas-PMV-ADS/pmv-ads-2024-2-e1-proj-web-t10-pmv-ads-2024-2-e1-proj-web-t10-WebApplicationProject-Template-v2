@@ -41,9 +41,9 @@ Nesta tela, o usuário poderá escolher entre: cadastrar-se via gov.br ou entrar
 
 Tela inicial pós login, o usuário visualizará suas informações e opções pessoais ao lado esquerdo. No centro da tela terá opções que levarão a outras telas. 
 
-### Novo exame:
+### Agendamento de Novo exame:
 
-<p><img src="img/FacilitaSUS - Home-novo-exame.jpg" alt="novo exame"></p>
+<p><img src="img/FacilitaSUS - Agendamento-exame.jpg" alt="novo exame"></p>
 
 Usuário consegue cadastrar novo exame de acordo com calendário
 
@@ -61,11 +61,11 @@ Usuário tem feedback do sistema de novo exame cadastrado ao aparecer um número
 
 ### Nova consulta:
 
-<p><img src="img/FacilitaSUS - Home-nova-consulta.jpg" alt="nova consulta"></p>
+<p><img src="img/FacilitaSUS - Agendamento-consulta.jpg" alt="nova consulta"></p>
 
 Usuário consegue cadastrar nova consulta 
 
-### Confirmação de novo exame:
+### Confirmação de nova consulta:
 
 <p><img src="img/FacilitaSUS - Confirmacao-consulta.jpg" alt="confirmação de nova consulta"></p>
 
