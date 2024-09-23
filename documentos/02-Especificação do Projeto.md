@@ -128,36 +128,34 @@ público e bancos.
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|ID     | Descrição                |Prioridade|
-|-------|----------------------------------|--|
-| RF-01 | A aplicação deve possuir | MEDIA |
-|       |  um filtro de busca para |       |
-|       |  que o usuário encontre  |       |
-|       |  facilmente o serviço    |       |
-|       |  que procura             |       | 
-|RF- 02 |Tutoriais mostrando o     | ALTA  |
-|       |passo a passo com imagens |       |
-|       |e explicações em          |       |
-|       |linguagem simples.        |       |
-|RF- 03 |Aplicação com orientações | ALTA  |
-|       |sobre como navegar na     |       |
-|       |internet com segurança.   |       |
-|RF- 04 |A aplicação deve possuir  | ALTA  |
-|       |  menu intuitivo, em que  |       |
-|       | cada aba seja um tipo de |       |
-|       | serviço                  |       |
-|RF- 05 |A aplicação deve permitir | BAIXA |
-|       |ao usuário cadastrar uma  |       |
-|       |conta                     |       |
-|RF- 06 |A aplicação deve permitir | BAIXA |
-|       |ao usuário fazer o login  |       |
-|       |da sua conta              |       |
-|RF- 07 |A aplicação deve permitir | BAIXA |
-|       |que o usuário salve os    |       |
-|       |principais sites que      |       |
-|       |utiliza                   |       |
- 
-
+| ID     | Descrição                               | Prioridade |
+|-------|----------------------------------------|------------|
+| RF-01 | A aplicação deve possuir               | MEDIA      |
+|       | um filtro de busca para                |            |
+|       | que o usuário encontre                 |            |
+|       | facilmente o serviço                   |            |
+|       | que procura                            |            |
+| RF-02 | Tutoriais mostrando o                  | ALTA       |
+|       | passo a passo com imagens              |            |
+|       | e explicações em                       |            |
+|       | linguagem simples.                     |            |
+| RF-03 | Aplicação com orientações              | ALTA       |
+|       | sobre como navegar na                  |            |
+|       | internet com segurança.                |            |
+| RF-04 | A aplicação deve possuir               | ALTA       |
+|       | menu intuitivo, em que                 |            |
+|       | cada aba seja um tipo de               |            |
+|       | serviço                                |            |
+| RF-05 | A aplicação deve permitir              | BAIXA      |
+|       | ao usuário cadastrar uma               |            |
+|       | conta                                  |            |
+| RF-06 | A aplicação deve permitir              | BAIXA      |
+|       | ao usuário fazer o login               |            |
+|       | da sua conta                           |            |
+| RF-07 | A aplicação deve permitir              | BAIXA      |
+|       | que o usuário salve os                 |            |
+|       | principais sites que                   |            |
+|       | utiliza                                |            |
 
 
 
