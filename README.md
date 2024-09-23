@@ -1,12 +1,12 @@
-# Título do Projeto
+# FacilitaSUS
 
-`CURSO`
+`Tecnologia em Análise e Desenv. de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`2024.2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O FacilitaSUS se trata do desenvolvimento de um sistema para integração entre o SUS e os pacientes na tratativa de marcação de exames.
 
 ## Integrantes
 
