@@ -10,11 +10,10 @@ A inclusão digital é essencial para a cidadania, mas muitos, especialmente os 
 
 ## Integrantes
 
-* Alice de Freitas Ferreira
 * Ariel Filipe Nascimento
 * Júlia Gonçalves Viana
 * Natasha Ramos do Carmo 
-* Rafael Rosseti Picinin Arruda  Vieira
+
 
 
 ## Orientador
