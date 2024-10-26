@@ -10,6 +10,12 @@ AGÊNCIA BRASIL. Uso de internet no país cresce mais entre idosos, mostra IBGE.
 Agência Brasil, Brasília, 31 ago. 2024. Disponível em:: https://agenciabrasil.ebc.com.br/geral/noticia/2024-08/uso-de-internet-no-pais-cresce-mais-entre-idosos-mostra-ibge. Acesso
 em: 31 ago. 2024.
 
+Sites usado para comlementar, utilizando ferramentas e elementos para a construção do projeto:
+https://www.w3schools.com/
+https://htmlreference.io/
+https://getbootstrap.com/
+Acesso em:25 out. 2024.
+
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
