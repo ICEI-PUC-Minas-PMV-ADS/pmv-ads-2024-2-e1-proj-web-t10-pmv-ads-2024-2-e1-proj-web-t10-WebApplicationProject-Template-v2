@@ -1,7 +1,8 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
+Uma equipe de desenvolvimento foi formada para criar um site de inclusão digital. A equipe desta etapa é composta por dois desenvolvedores iniciantes de front-end. Para organizar as atividades, a equipe utiliza a metodologia ágil, realizando reuniões semanais para acompanhar o progresso e ajustar as prioridades.
+Para a construção do site, utilizamos o visual studio como principal ambiente de desenvolvimento.
 
 
 ## Gerenciamento de Projeto
