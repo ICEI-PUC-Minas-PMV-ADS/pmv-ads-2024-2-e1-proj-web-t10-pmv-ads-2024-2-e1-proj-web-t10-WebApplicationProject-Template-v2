@@ -19,7 +19,7 @@ class SideBar extends HTMLElement {
             href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
             />
             <link rel="stylesheet" href="./side-bar.css" />
-            <div class="container">
+            <div class="container-side">
             <div class="base foto"><div class="instance-child"></div></div>
             <div class="base" style=" font-weight: bold;">
                 <p style="margin: 0; font-size: 24px;">Fulano da Silva</p>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="initial-scale=1, width=device-width" />
+        <title>Home</title>
+        <link rel="stylesheet" href="../../side-bar/side-bar.css" />
+        <link rel="stylesheet" href="../../datas-component/datas-component.css">
+        <link rel="stylesheet" href="../agendar.css">
+        <link rel="stylesheet" href="../../../header/header.css">
+        <script src="../../side-bar/side-bar.js"></script>
+        <script src="../../datas-component/datas-component.js"></script>
+        <script src="../../../header/header.js"></script>
+    </head>
+    <body>
+        <header></header>
+        <main style="display: flex;">
+            <side-bar></side-bar>
+            <div class="content" style="display: flex;">
+                <div class="text-agendamento">
+                    <h1>Agendamento de consulta</h1>
+                    <p>Você só pode ter um atendimento agendado por vez para cada usuário. <br>
+                    Caso não possa comparecer, realize o seu cancelamento.</p>
+                </div>
+               <datas-component class="element"></datas-component>
+            </div>
+        </main>
+    </body> 
+    
+</html>
