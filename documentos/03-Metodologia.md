@@ -13,8 +13,8 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 
-- Scrum Master: Ariel
-- Product Owner: Julia 
+- Scrum Master: Ariel Nascimento 
+- Product Owner: Julia Gonçalves 
 - Equipe de Desenvolvimento: Ariel Nascimento e Júlia Gonçalves.
 - Equipe de Design: Ariel Nascimento e Júlia Gonçalves 
 
