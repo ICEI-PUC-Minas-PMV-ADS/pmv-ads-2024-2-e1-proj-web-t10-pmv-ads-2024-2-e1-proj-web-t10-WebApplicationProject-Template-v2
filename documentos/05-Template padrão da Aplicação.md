@@ -5,97 +5,163 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 Layout Padrão HTML
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8" />
 
-    <title>My page title</title>
-    <link
-      rel="stylesheet"
-      type="text/css" />
-    <link rel="stylesheet" href="style.css" />
+<head>
+  <link rel="stylesheet" href="style.css">
   </head>
+<body>
+  
+  <div class="header">
+    <h1>CIDADANIA DIGITAL</h1>
+    <p>Ativos em Maturidade e Saúde.</p>
+  </div>
 
-  <body>
-      <header>
-      <h1>Header</h1>
-    </header>
+  <form>
+    <input type="search" name="q" placeholder="Pesquisar" />
+    <input type="submit" value="Buscar" />
+  </form>
 
-    <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Our team</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-
-      <form>
-        <input type="search" name="q" placeholder="Search query" />
-        <input type="submit" value="Go!" />
-      </form>
-    </nav>
-    
-    <main>
-       <article>
-        <h2>Article heading</h2>
-
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Donec a diam
-          lectus. Set sit amet ipsum mauris. Maecenas congue ligula as quam
-          viverra nec consectetur ant hendrerit. Donec et mollis dolor. Praesent
-          et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt
-          congue enim, ut porta lorem lacinia consectetur.
-        </p>
-
-        <h3>Subsection</h3>
-
-        <p>
-          Donec ut librero sed accu vehicula ultricies a non tortor. Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Aenean ut gravida lorem.
-          Ut turpis felis, pulvinar a semper sed, adipiscing id dolor.
-        </p>
-
-        <p>
-          Pelientesque auctor nisi id magna consequat sagittis. Curabitur
-          dapibus, enim sit amet elit pharetra tincidunt feugiat nist imperdiet.
-          Ut convallis libero in urna ultrices accumsan. Donec sed odio eros.
-        </p>
-
-        <h3>Another subsection</h3>
-
-        <p>
-          Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum
-          soclis natoque penatibus et manis dis parturient montes, nascetur
-          ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem
-          facilisis semper ac in est.
-        </p>
-
-        <p>
-          Vivamus fermentum semper porta. Nunc diam velit, adipscing ut
-          tristique vitae sagittis vel odio. Maecenas convallis ullamcorper
-          ultricied. Curabitur ornare, ligula semper consectetur sagittis, nisi
-          diam iaculis velit, is fringille sem nunc vet mi.
-        </p>
-      </article>
-           <h2>Related</h2>
-
-        <ul>
-          <li><a href="#">Oh I do like to be beside the seaside</a></li>
-          <li><a href="#">Oh I do like to be beside the sea</a></li>
-          <li><a href="#">Although in the North of England</a></li>
-          <li><a href="#">It never stops raining</a></li>
-          <li><a href="#">Oh well...</a></li>
-        </ul>
-      </aside>
-    </main>    
-
-    <footer>
-      <p>©Copyright 2024 by Cidadania Digital, PUC Virtual</p>
-    </footer>
-  </body>
+  <div class="topnav">
+    <a href="#">QUEM SOMOS</a>
+    <a href="#">TUTORIAIS</a>
+    <a href="#">AGENDAMENTOS</a>
+    <a href="#">APOSENTADORIA</a>
+    <a href="#">DEFICIENTES(PCD)</a>
+    <a href="#">ENTERTENIMENTO</a>
+    <a href="#" style="float:right">FALE CONOSCO</a>
+  </div>
+<main>
+  <div class="row">
+    <div class="leftcolumn">
+      <div class="card">        
+        <h2>CONECTE-SE</h2> 
+        <img src="idosos1.jpg.jpg"
+        <div class="fakeimg" style="height: 350px"; style="width: 150px";"</div>    
+        <p>Cidadania Digital é essencial em especial os idosos, enfrentam dificuldades com tecnologias.
+          O projeto "Cidadania Digital" visa simplificar o acesso a serviços essenciais,
+          como sites governamentais e ferramentas essenciais, por meio de uma plataforma inclusiva
+          que oferece guias e tutoriais.</p>
+        <p>O objetivo é promover a autonomia e facilidade ao acesso a informações importantes de maneira rápida e
+          dinâmica.</p>
+      </div>
+      <div class="card">
+        <h2>USUÁRIOS</h2>
+        <img src="idosos2.jpg.jpg"
+        <div class="fakeimg" style="height:450px;" </div>
+        <p>Os efeitos da exclusão digital podem atingir pessoas de diferentes idades e locais,
+          mas o foco deste projeto está principalmente na acessibilidade para usuários idosos com mais de 60 anos.
+          Esse grupo enfrenta dificuldades para acessar serviços digitais devido à pouca familiaridade com tecnologia
+          e limitações físicas. Além dos idosos, adultos entre 45 e 59 anos também são considerados, pois, apesar de
+          possuírem conhecimentos básicos de tecnologia, necessitam de uma ferramenta confiável para gerenciar serviços
+          relacionados ao trabalho, saúde e finanças. Ambos os grupos demandam interfaces simples e tutoriais
+          detalhados para facilitar a navegação em plataformas governamentais e bancárias, que muitas vezes são
+          complexas demais
+          para seus níveis de experiência.</p>
+        <p>Outro grupo relevante são os cuidadores e familiares que assistem idosos no dia a dia e
+          frequentemente auxiliam com questões tecnológicas. Esses usuários geralmente possuem um conhecimento
+          intermediário de tecnologia e se beneficiariam de uma plataforma fácil de entender, que lhes permita orientar
+          e apoiar os
+          idosos de forma eficaz.</p>
+      </div>
+    </div>
+    <div class="rightcolumn">
+      <div class="card">
+        <h2>Cadastre-se</h2>
+        <div <form action="/signup" method="post">
+          <p>
+            <label>Gênero</label><br>
+            <label>
+              <input type="radio" name="title" value="masculino">
+              Masculino
+            </label>
+            <label>
+              <input type="radio" name="title" value="feminino">
+              Feminino
+            </label>
+          </p>
+          <p>
+            <label>Nome Completo</label><br>
+            <input type="text" name="nome completo">
+          </p>
+          <p>
+            <label>Email</label><br>
+            <input type="email" name="email" required>
+          </p>
+          <p>
+            <label>Número de Celular</label><br>
+            <input type="telefone" name="celular">
+          </p>
+          <p>
+            <label>Senha</label><br>
+            <input type="senha" name="senha">
+          </p>
+          <p>
+            <label>Estado</label><br>
+            <select>
+              <option>Belo Horizonte</option>
+              <option>São Paulo</option>
+              <option>Rio de Janeiro</option>
+              <option>Espírito Santo</option>
+              <option>Santa Catarina</option>
+            </select>
+          </p>
+          <p>
+            <label>
+              <input type="checkbox" value="termos">
+              Eu concordo com os <a href="/termos">termos e condições</a>
+            </label>
+          </p>
+          <p>
+            <button>Cadastrar</button>
+            <button type="resetar">Entrar</button>
+          </p>
+          </form>
+          <p>Tenha uma experiência dinâmica e prática conosco.</p>
+        </div>
+        <div>
+          <form action="/subscribe" method="post">
+            <fieldset>
+              <legend>SUGESTÕES</legend>
+              <div class="form-group">
+                <label for="usr">Nome:</label>
+                <input type="text" class="form-control" id="usr">
+              </div>
+              <div class="form-group">
+                <label for="celular">Celular</celular>:</label>
+                <input type="celular" class="form-control" id="celular">
+                <div class="form-group">
+                  <label for="comment">Esvreva aqui:</label>
+                  <textarea class="form-control" rows="5" id="comment"></textarea>
+                </div>
+              </div>
+              <button>Enviar Sugestão</button>
+            </fieldset>
+        </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  <aside>
+    <h2>DÚVIDAS</h2>
+    <ul>
+      <li><a href="#">NÃO CONSIGO FAZER O LOGIN</a></li>
+      <li><a href="#">ESQUECI MINHA SENHA</a></li>
+      <li><a href="#">DÚVIDAS SOBRE OS TUTORIAIS</a></li>
+      <li><a href="#">DÚVIDAS SOBRE APOSENTADORIA</a></li>
+      <li><a href="#">DÚVIDAS SOBRE APLICATIVOS DE BANCO</a></li>
+      <li><a href="#">TUDO SOBRE FGTS</a></li>
+    </ul>
+  </aside>
+</main>
+<footer class="footer">
+  <div class="container">
+  <p>&copy; 2024 Cidadania Digital, PUC Virtual</p>
+  </div>
+</footer>
+</body>
 </html>
 
 Padrão Css:
-
 < !DOCTYPE html><html><head><style>* {
   box-sizing: border-box;
 }
@@ -185,17 +251,27 @@ body {
    margin-top: 20px;
 }
 
-/* Footer */
 .footer {
+  background-color: #097722;
   padding: 10px;
-  text-align:center;
-  background: #097722;
-  color: #f2f2f2;
+  text-align: center;
+  clear: both;
+  position: relative;
   width: 100%;
-  position: absolute;
-}
-
-
+  bottom: 0;
+  }
+  
+  .footer .container {
+  max-width: 800px;
+  margin: 0 auto;
+  }
+  
+  .footer p {
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: #ffffff;
+  }
+  
 </style></head><body>
 
 > **Links Úteis**:
