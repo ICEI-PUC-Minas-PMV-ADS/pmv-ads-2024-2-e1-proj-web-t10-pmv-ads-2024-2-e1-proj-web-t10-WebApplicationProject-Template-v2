@@ -7,7 +7,7 @@ class Header extends HTMLElement {
         />
         <link rel="stylesheet" href="./header.css" />
         <div class="header">
-            <img src="../codigo-fonte/img/govbr.png" alt="Ilustração de usuário">
+            <img src="/codigo-fonte/img/govbr.png" alt="Ilustração de usuário">
             <nav>
                 <a href="#">ACESSO À INFORMAÇÃO</a>
                 <a href="#">PARTICIPE</a>
@@ -20,4 +20,4 @@ class Header extends HTMLElement {
     }
 }
 
-customElements.define("header", Header);
+customElements.define("header-comp", Header);

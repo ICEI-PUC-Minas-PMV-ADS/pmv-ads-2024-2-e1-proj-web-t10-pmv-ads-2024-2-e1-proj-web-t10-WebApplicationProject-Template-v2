@@ -1,4 +1,4 @@
-header {
+.header {
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -7,17 +7,18 @@ header {
     width: 100%;
     box-shadow: 0 3px 6px #00000029;
     margin-bottom: 6px;
+    font-family: Inter;
 }
 
-header h1 {
+.header h1 {
     margin: 0;
 }
 
-header img{
+.header img{
     height: 30px;
 }
 
-header nav a {
+.header nav a {
     color: black;
     margin: 0 10px;
     text-decoration: none;
