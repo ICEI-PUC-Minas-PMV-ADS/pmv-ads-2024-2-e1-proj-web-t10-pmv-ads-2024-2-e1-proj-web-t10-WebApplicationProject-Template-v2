@@ -7,8 +7,10 @@ divs.forEach((div) => {
   });
 });
 
-function Redirect(){
-  window.location.href = "../home/home.html";
+function Redirect(link){
+  if(link == null) link = "../home/home.html";
+  
+  window.location.href = link;
 }
 
 function Sair() {
@@ -33,8 +35,8 @@ class SideBar extends HTMLElement {
                 
             </div>
                 <div class="base redirect" onclick=Redirect() data-link="/codigo-fonte/index.html">Minhas mensagens</div>
-                <div class="base redirect" onclick=Redirect() data-link="/codigo-fonte/index.html">Meus exames</div>
-                <div class="base redirect" onclick=Redirect() data-link="/codigo-fonte/index.html">Minhas consultas</div>
+                <div class="base redirect" onclick=Redirect("../meus-exames/meus-exames.html") data-link="/codigo-fonte/index.html">Meus exames</div>
+                <div class="base redirect" onclick=Redirect("../meus-exames/meus-exames.html") data-link="/codigo-fonte/index.html">Minhas consultas</div>
                 <div class="base redirect" onclick=Redirect()  data-link="../index.html"><span>Inicio</span></div>
                 <div class="base redirect" onclick=Redirect() data-link="../index.html">Meu perfil</div>
                 <div class="base redirect" onclick=Redirect() data-link="/codigo-fonte/index.html">Informações</div>

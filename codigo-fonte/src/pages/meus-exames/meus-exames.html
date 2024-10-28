@@ -8,22 +8,25 @@
     <title>Meus Exames</title>
     <link rel="stylesheet" href="../meus-exames/meus-exames.css" />
     <link rel="stylesheet" href="../side-bar/side-bar.css" />
+    <link rel="stylesheet" href="../../header/header.css" />
+
     <script src="../side-bar/side-bar.js"></script>
     <script src="../meus-exames/meus-exames.js"></script>
+    <script src="../../header/header.js"></script>
   </head>
 
 <body>
+    <header-comp></header-comp>
     <main class="main">
-        <header></header>
         <side-bar></side-bar>
         <div class="content">
             <div class="meus-exames">
                 <h1>Meus exames</h1>
                 <div class="menu-exames">
                     <button id="active">Agendados</button>
-                    <button>Avalie seu atendimento</button>
-                    <button>Fila de espera</button>
-                    <button>Resultados</button>
+                    <button onclick="Resultados()">Avalie seu atendimento</button>
+                    <button onclick="Resultados()">Fila de espera</button>
+                    <button onclick="Resultados()">Resultados</button>
                 </div>
                 <br>
                 <br>
@@ -44,5 +47,11 @@
         </div>
     </main>
 </body>
+
+<script> 
+    function Resultados(){
+        window.window.location.href = '../meus-exames-resultados/meus-exames.html';
+    }
+</script>
 
 </html>
