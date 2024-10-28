@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+}
+
+body {
+    font-family: Inter;
+}
+
+.meus-exames {
+    background-color: #EFEFEF;
+    border-radius: 10px;
+    margin: 20px;              
+    padding: 20px 100px; 
+    width: auto;
+}
+
+button {
+    font-family: inter;
+    font-size: 18px;
+    margin-right: 50px;
+    border-radius: 5px;
+}
+
+.msg-atencion {
+    color: #2db8c5;
+}
+
+.redirect {
+    cursor: pointer;
+}
+
+#active {
+    color: #2db8c5;
+    font-weight: bold;
+}
