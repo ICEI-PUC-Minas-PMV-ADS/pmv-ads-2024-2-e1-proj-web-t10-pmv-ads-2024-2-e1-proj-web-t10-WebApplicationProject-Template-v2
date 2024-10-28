@@ -17,8 +17,7 @@ E uma central com Dúvidas Frequentes;
 
 ### Título da funcionalidade
 
-
-![image](https://github.com/user-attachments/assets/11c18761-06e5-4921-b7b2-c051dab64b32)
+![imagem Page 1 Cidadania Digital Etapa 3](https://github.com/user-attachments/assets/40083303-35dd-40df-82dc-727ff676cc03)
 
 [Adicione imagem da funcionalidade/tela]
 
