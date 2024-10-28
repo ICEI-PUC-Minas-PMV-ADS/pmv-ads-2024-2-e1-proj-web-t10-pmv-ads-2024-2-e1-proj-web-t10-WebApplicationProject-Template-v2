@@ -6,11 +6,13 @@
         <title>Home</title>
         <link rel="stylesheet" href="../home/home.css" />
         <link rel="stylesheet" href="../side-bar/side-bar.css" />
+        <link rel="stylesheet" href="../../header/header.css" />
         <script src="../side-bar/side-bar.js"></script>
+        <script src="../../header/header.js"></script>
         <script src="../home/home.js"></script>
     </head>
     <body>
-        <header></header>
+        <header-comp></header-comp>
         <main class="main">
             <side-bar></side-bar>
             <div class="content">
@@ -19,14 +21,14 @@
                     <span>Saiba mais sobre as últimas notícias da área da saúde</span>
                 </div>
 
-                <div>
+                <div onclick="agendarExame()">
                     <h2>Exames</h2>
-                    <span onclick="agendarConsulta()">Clique aqui para agendar seus exames</span>
+                    <span >Clique aqui para agendar seus exames</span>
                 </div>
 
-                <div >
+                <div onclick="agendarConsulta()">
                     <h2>Consultas</h2>
-                    <span onclick="agendarExame()">Clique aqui para agendar seus exames</button>
+                    <span >Clique aqui para agendar seus exames</button>
                 </div>
 
                 <div>

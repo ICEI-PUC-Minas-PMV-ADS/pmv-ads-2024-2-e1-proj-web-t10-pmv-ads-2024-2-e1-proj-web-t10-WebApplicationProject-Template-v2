@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="initial-scale=1, width=device-width" />
+        <title>Home</title>
+        <link rel="stylesheet" href="../side-bar/side-bar.css" />
+        <link rel="stylesheet" href="../datas-component/datas-component.css">
+        <link rel="stylesheet" href="../agendar-exame-page/agendar.css">
+        <link rel="stylesheet" href="../../header/header.css">
+        <script src="../side-bar/side-bar.js"></script>
+        <script src="../datas-component/datas-component.js"></script>
+        <script src="../../header/header.js"></script>
+    </head>
+    <body>
+        <header-comp></header-comp>
+        <main style="display: flex;">
+            <side-bar></side-bar>
+            <div class="content" style="display: flex;">
+                <div class="text-agendamento">
+                    <h1>Agendamento de Consulta</h1>
+                    <p>Você só pode ter um atendimento agendado por vez para cada usuário. <br>
+                    Caso não possa comparecer, realize o seu cancelamento.</p>
+                </div>
+               <datas-component class="element"></datas-component>
+            </div>
+        </main>
+    </body> 
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="header-modal">
+                <h2>Consulta cardiológica</h2>
+                <p>Chegar 15 minutos antes</p>
+            </div>
+            
+            <div>
+                <p>Médico: Dra Deolane Maria</p>
+                <p>Data: 15/10/2020</p>
+            </div>
+            <div class="actions">
+                <button id="cancelBtn">Voltar</button>
+                <button id="acceptBtn">Confirmar</button>
+            </div>
+        </div>
+    </div>
+    <script src="../agendar-exame/agendar-exame.js"></script>
+    <link rel="stylesheet" href="../agendar-exame/agendar-exame.css">
+    
+</html>

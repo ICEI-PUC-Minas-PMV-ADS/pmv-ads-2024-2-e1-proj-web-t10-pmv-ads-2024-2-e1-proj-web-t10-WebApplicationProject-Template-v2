@@ -35,7 +35,7 @@ body{
     text-decoration: none;
     cursor: pointer;
 }
-.header{
+.header-modal{
     justify-content: center;
     align-items: center;
     margin-bottom: 20px;
