@@ -20,14 +20,14 @@ class Datas extends HTMLElement {
                     </div>
                     </div>
                     <div class="horarios">
-                        <div class="horario">11:00</div>
-                        <div class="horario">12:00</div>
-                        <div class="horario">13:00</div>
-                        <div class="horario">14:00</div>
-                        <div class="horario">15:00</div>
-                        <div class="horario">16:00</div>
-                        <div class="horario">17:00</div>
-                        <div class="horario">18:00</div>
+                        <div class="horario" id="openModalBtn">11:00</div>
+                        <div class="horario" id="openModalBtn">12:00</div>
+                        <div class="horario" id="openModalBtn">13:00</div>
+                        <div class="horario" id="openModalBtn">14:00</div>
+                        <div class="horario" id="openModalBtn">15:00</div>
+                        <div class="horario" id="openModalBtn">16:00</div>
+                        <div class="horario" id="openModalBtn">17:00</div>
+                        <div class="horario" id="openModalBtn">18:00</div>
                     </div>
                 </div>
                 
@@ -39,14 +39,14 @@ class Datas extends HTMLElement {
                     </div>
                     </div>
                     <div class="horarios">
-                    <div class="horario">11:00</div>
-                    <div class="horario">12:00</div>
-                    <div class="horario">13:00</div>
-                    <div class="horario">14:00</div>
-                    <div class="horario">15:00</div>
-                    <div class="horario">16:00</div>
-                    <div class="horario">17:00</div>
-                    <div class="horario">18:00</div>
+                    <div class="horario" id="openModalBtn" id="openModalBtn">11:00</div>
+                    <div class="horario" id="openModalBtn">12:00</div>
+                    <div class="horario" id="openModalBtn">13:00</div>
+                    <div class="horario" id="openModalBtn">14:00</div>
+                    <div class="horario" id="openModalBtn">15:00</div>
+                    <div class="horario" id="openModalBtn">16:00</div>
+                    <div class="horario" id="openModalBtn">17:00</div>
+                    <div class="horario" id="openModalBtn">18:00</div>
                     </div>
                 </div>
             </div>

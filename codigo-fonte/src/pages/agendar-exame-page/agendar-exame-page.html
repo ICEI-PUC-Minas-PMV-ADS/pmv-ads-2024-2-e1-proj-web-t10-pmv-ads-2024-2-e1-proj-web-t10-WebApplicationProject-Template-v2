@@ -18,7 +18,7 @@
             <side-bar></side-bar>
             <div class="content" style="display: flex;">
                 <div class="text-agendamento">
-                    <h1>Agendamento de consulta</h1>
+                    <h1>Agendamento de exame</h1>
                     <p>Você só pode ter um atendimento agendado por vez para cada usuário. <br>
                     Caso não possa comparecer, realize o seu cancelamento.</p>
                 </div>
@@ -26,5 +26,25 @@
             </div>
         </main>
     </body> 
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="header-modal">
+                <h2>Exame de Raio-X</h2>
+                <p>Chegar 15 minutos antes</p>
+            </div>
+            
+            <div>
+                <p>Médico: Dra Deolane Maria</p>
+                <p>Data: 15/10/2020</p>
+            </div>
+            <div class="actions">
+                <button id="cancelBtn">Voltar</button>
+                <button id="acceptBtn">Confirmar</button>
+            </div>
+        </div>
+    </div>
+    <script src="../agendar-exame/agendar-exame.js"></script>
+    <link rel="stylesheet" href="../agendar-exame/agendar-exame.css">
     
 </html>

@@ -1,5 +1,5 @@
 function agendarExame(){
-    window.location.href = "../../pages/agendar-exame/agendar-exame.html";
+    window.location.href = "../../pages/agendar-exame-page/agendar-exame-page.html";
 }
 
 function agendarConsulta(){

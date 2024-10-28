@@ -3,14 +3,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
     form.addEventListener('submit', (e) => {
         e.preventDefault();
-        const cpf = document.getElementById('cpf').value;
+        const cpf = document.getElementById('cpf').value.replace(/\D/g, '');
 
         // Colocar lógica de validação do CPF
-        if (cpf === '000.000.000-00') {
-            window.location.href = 'src/pages/home/home.html';
-        } else {
+        if (cpf.length !== 11 || /^(\d)\1{10}$/.test(cpf)) {
             alert('CPF inválido.');
-        }
+            return;
+        } 
+        
+        
+        window.location.href = 'src/pages/home/home.html';
+        
     });
 });
 

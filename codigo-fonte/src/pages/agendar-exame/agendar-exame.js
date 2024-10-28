@@ -10,6 +10,17 @@ btn.onclick = function() {
     modal.style.display = "block";
 }
 
+const botoes = document.querySelectorAll('.horario');
+
+// Adiciona a função onClick a cada botão
+botoes.forEach(botao => {
+    botao.addEventListener('click', function() {
+        // console.log('Clique no:', botao.textContent);
+        // alert(`Você clicou no: ${botao.textContent}`);
+        modal.style.display = "block";
+    });
+});
+
 // Quando o usuário clicar no <span> (x), fechar a modal
 span.onclick = function() {
     modal.style.display = "none";
