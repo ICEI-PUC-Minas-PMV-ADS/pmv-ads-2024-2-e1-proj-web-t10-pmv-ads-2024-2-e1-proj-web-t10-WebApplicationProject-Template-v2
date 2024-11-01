@@ -14,6 +14,7 @@ Sites usado para comlementar, utilizando ferramentas e elementos para a construÃ
 https://www.w3schools.com/
 https://htmlreference.io/
 https://getbootstrap.com/
+https://code.visualstudio.com/
 Acesso em:25 out. 2024.
 
 > **Links Ãšteis**:
