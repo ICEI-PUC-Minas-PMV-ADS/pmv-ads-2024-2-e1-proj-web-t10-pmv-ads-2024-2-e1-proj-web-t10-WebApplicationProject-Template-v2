@@ -21,3 +21,22 @@ for (let i = 0; i < numberOfYears; i++) {
     option.textContent = currentYear + i;
     yearSelect.appendChild(option);
 }
+
+function validateCard() {
+    const inputCard = document.getElementById("inpCard").value.replace(/\s/g, '');
+    const cardNumberRegex = /^\d{16}$/;
+    
+    if (!inputCard) {
+        alert("O campo do cartão está vazio! Por favor, Preencha.");
+        return;
+    }
+
+    if (!cardNumberRegex.test(inputCard)) {
+        alert("O número do cartão deve conter exatamente 16 dígitos.");
+        return;
+    }
+
+    window.location.href = 'agradecimento.html';
+}
+
+document.getElementById("submitButton").addEventListener("click", validateCard);
