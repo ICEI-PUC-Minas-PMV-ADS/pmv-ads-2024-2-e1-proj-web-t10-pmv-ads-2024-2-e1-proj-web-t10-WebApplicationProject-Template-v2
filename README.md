@@ -12,7 +12,6 @@ A inclusão digital é essencial para a cidadania, mas muitos, especialmente os 
 
 * Ariel Filipe Nascimento
 * Júlia Gonçalves Viana
-* Natasha Ramos do Carmo 
 
 
 
