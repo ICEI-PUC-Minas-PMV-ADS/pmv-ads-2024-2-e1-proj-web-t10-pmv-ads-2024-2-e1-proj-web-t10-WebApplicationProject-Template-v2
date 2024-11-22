@@ -29,15 +29,6 @@ body {
     border: 1px solid #00000060;
 }
 
-.logo {
-    text-align: center;
-    margin-bottom: 0px;
-}
-
-.logo img {
-    height: 250px;
-    width: 300px;
-}
 
 .login-container h2 {
     margin-bottom: 20px;

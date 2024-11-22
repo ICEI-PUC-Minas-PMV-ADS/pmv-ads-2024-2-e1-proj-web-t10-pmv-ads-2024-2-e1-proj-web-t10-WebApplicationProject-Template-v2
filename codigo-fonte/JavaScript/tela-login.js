@@ -1,11 +1,9 @@
 function login() {
-    const username = document.getElementById("usuário").value;
-    const password = document.getElementById("senha").value;
-    const errorMessage = document.getElementById("mensagem-erro");
+    const username = document.getElementById("email").value;
+    const password = document.getElementById("password").value;
 
     // Validações básicas
-    if (username === "" || password === "") {
-        errorMessage.textContent = "Deverá ser preenchido todos os campos.";
-        return;
+    if (username == "" || password == "") {
+        alert("Deverá ser preenchido todos os campos.")
     }
 }
