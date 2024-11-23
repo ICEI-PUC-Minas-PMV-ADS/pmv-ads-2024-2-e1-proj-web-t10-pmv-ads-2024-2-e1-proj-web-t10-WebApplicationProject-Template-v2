@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato - Cidadania Digital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Cabeçalho com navegação -->
+    <header>
+        <div class="container">
+            <h1>Cidadania Digital</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="quem-somos.html">Quem Somos</a></li>
+                    <li><a href="servicos.html">Serviços</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Seção principal com o formulário de contato -->
+    <main>
+        <div class="container">
+            <section class="contact-section">
+                <h2>Entre em Contato Conosco</h2>
+                <p>Preencha o formulário abaixo e nossa equipe entrará em contato com você o mais rápido possível.</p>
+
+                <form id="contact-form" method="POST">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="nome">Nome Completo:</label>
+                            <input type="text" id="nome" name="nome" placeholder="Digite seu nome completo" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="email">Email:</label>
+                            <input type="email" id="email" name="email" placeholder="Digite seu email" required>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="assunto">Assunto:</label>
+                        <input type="text" id="assunto" name="assunto" placeholder="Assunto da mensagem" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="mensagem">Mensagem:</label>
+                        <textarea id="mensagem" name="mensagem" placeholder="Digite sua mensagem" required></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <button type="submit" class="btn-submit">Enviar Mensagem</button>
+                    </div>
+                </form>
+            </section>
+
+            <!-- Informações de contato -->
+            <section class="contact-info">
+                <h3>Outros Meios de Contato</h3>
+                <ul>
+                    <li><strong>Telefone:</strong> +55 31 1234-5678</li>
+                    <li><strong>Email:</strong> contato@cidadaniadigital.com.br</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Cidadania Digital | PUC MINAS</p>
+        </div>
+    </footer>
+
+    <!-- Script de validação -->
+    <script>
+        document.querySelector("#contact-form").addEventListener("submit", function (event) {
+            event.preventDefault(); // Impede o envio real do formulário
+
+            const nome = document.querySelector("#nome").value;
+            const email = document.querySelector("#email").value;
+            const mensagem = document.querySelector("#mensagem").value;
+
+            if (nome === "" || email === "" || mensagem === "") {
+                alert("Por favor, preencha todos os campos.");
+                return;
+            }
+
+            alert("Mensagem enviada com sucesso!");
+        });
+    </script>
+</body>
+
+</html>
