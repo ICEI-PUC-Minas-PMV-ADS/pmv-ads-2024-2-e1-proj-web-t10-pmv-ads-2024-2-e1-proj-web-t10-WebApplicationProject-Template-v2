@@ -3,33 +3,132 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+Para o desenvolvimento do user flow foi inicialmente necessário levantar o atual fluxo de trabalho empregado pelos usuários (de maneira não digital) para que se pudesse observar pontos de melhoria e pontos que no digital poderiam ser feitos de forma totalmente automática. Ao fim desse levantamento tivemos em mãos um rascunho, que se encontra abaixo, do que viria a ser nosso user flow.
 
-[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
+### Rascunho: 
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+![image](https://github.com/user-attachments/assets/a14c137c-cc1f-486d-bd43-cde440f15ee3)
 
-## Protótipo
+Figura 1 - Rascunho do User Flow
 
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
+<br>
+    
+
+Por fim, pudemos definir quais telas e quando se apresentariam para o usuário, finalizando assim, o user flow. Para visualizar melhor acesse o Miro.
+
+### User flow: 
+
+![image](https://github.com/user-attachments/assets/48a939bd-7f2d-4150-bb9a-4bd3870203d9)
+
+<figure> 
+    <figcaption>Figura 2 - User Flow
+</figure>
+
 
 ### Protótipo de baixa fidelidade
 
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
+Devido a complexidade do projeto, foi escolhida a visão usuário para realizar o protótipo de baixa fidelidade do projeto, com alguns dos requisitos funcionais mapeados. 
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+### Login:
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+<p><img src="img/FacilitaSUS - Login.jpg" alt="login-gov"></p>
 
+Nesta tela, o usuário poderá escolher entre: cadastrar-se via gov.br ou entrar com sua conta pré existente. Essa funcionalidade garante que o sistema já utilize dados pré cadastrados e histórico dos usuários no SUS.
+
+### Home:
+
+<p><img src="img/FacilitaSUS - Home.jpg" alt="home"></p>
+
+Tela inicial pós login, o usuário visualizará suas informações e opções pessoais ao lado esquerdo. No centro da tela terá opções que levarão a outras telas. 
+
+### Agendamento de Novo exame:
+
+<p><img src="img/FacilitaSUS - Agendamento-exame.jpg" alt="novo exame"></p>
+
+Usuário consegue cadastrar novo exame de acordo com calendário
+
+### Confirmação de novo exame:
+
+<p><img src="img/FacilitaSUS - Confirmacao-exame.jpg" alt="confirmação de novo exame"></p>
+
+Confirmação do agendamento de novo exame
+
+### Feedback ao usuário de novo exame agendado:
+
+<p><img src="img/FacilitaSUS - Home-novo-exame.jpg" alt="home com novo exame"></p>
+
+Usuário tem feedback do sistema de novo exame cadastrado ao aparecer um número junto a "Meus exames" na barra de menu lateral.
+
+### Meus exames:
+
+<p><img src="img/FacilitaSUS - Meus-exames.jpg" alt="meus exames"></p>
+
+Usuário tem acesso a página com todos os exames marcados, com opção de cancelamento dos mesmos. 
+
+### Meus exames - sem exames:
+
+<p><img src="img/FacilitaSUS - Sem-exames.jpg" alt="meus exames vazio"></p>
+
+Caso o usuário não possua exames agendados, a tela "Meus exames" mostrará a opção de agendar. 
+
+### Resultado de exames:
+
+<p><img src="img/FacilitaSUS - Resultado-exame.jpg" alt="resultado de exames"></p>
+
+O usuário consegue consultar seus resultados de exames
+
+### Nova consulta:
+
+<p><img src="img/FacilitaSUS - Agendamento-consulta.jpg" alt="nova consulta"></p>
+
+Usuário consegue cadastrar nova consulta 
+
+### Confirmação de nova consulta:
+
+<p><img src="img/FacilitaSUS - Confirmacao-consulta.jpg" alt="confirmação de nova consulta"></p>
+
+Confirmação do agendamento de nova consulta
+
+### Feedback de nova consulta agendada:
+
+<p><img src="img/FacilitaSUS - Home-nova-consulta.jpg" alt="home com nova consulta"></p>
+
+Usuário tem feedback do sistema de nova consulta cadastrada ao aparecer um número junto a "Minhas consultas" na barra de menu lateral.
+
+### Minhas consultas:
+
+<p><img src="img/FacilitaSUS - Minhas-consultas.jpg" alt="minhas consultas"></p>
+
+Usuário tem acesso a página com todas as suas consultas marcadas, com opção de cancelamento das mesmas. 
+
+### Minhas consultas - sem consultas:
+
+<p><img src="img/FacilitaSUS - Sem-consultas.jpg" alt="Minhas consultas vazio"></p>
+
+Caso o usuário não possua consultas agendadas, a tela "Minhas consultas" mostrará a opção de agendar. 
+
+### Encaminhamento:
+
+<p><img src="img/FacilitaSUS - Encaminhamentos.jpg" alt="encaminhamentos"></p>
+
+O usuário consegue consultar seus próximos passos, ou seja, encaminhamentos, feitos pelos médicos no pós consulta. 
+
+### Edição de perfil:
+
+<p><img src="img/FacilitaSUS - Editar-perfil.jpg" alt="editar perfil"></p>
+
+O usuário consegue visualizar seus dados básicos vindos da conta gov.br, inalteráveis, como Nome, Data de nascimento e prioridade na fila de exames e consultas. E editar sua localização para que o sistema forneça os calendários das unidades de saúde mais próximas. 
+
+### FAQ - Perguntas e respostas mais comuns:
+
+<p><img src="img/FacilitaSUS - FAQ.jpg" alt="faq"></p>
+
+Na tela de FAQ é mostrado ao usuário as perguntas e respostas mais comuns sobre o sistema e como utilizar
+
+### Fluxo de atendimento e informações sobre exames:
+
+<p><img src="img/FacilitaSUS - Fluxo-info.jpg" alt="fluxo"></p>
+
+Na tela de fluxo, é informado todo o passo a passo necessário para se utilizar o sistema e cadastrar consultas e exames. Logo abaixo fica a lista de exames disponibilizada pelo SUS
 
 

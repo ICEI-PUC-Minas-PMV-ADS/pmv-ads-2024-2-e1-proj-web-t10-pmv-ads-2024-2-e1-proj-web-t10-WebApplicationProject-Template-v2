@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="initial-scale=1, width=device-width" />
+        <title>Home</title>
+        <link rel="stylesheet" href="../home/home.css" />
+        <link rel="stylesheet" href="../side-bar/side-bar.css" />
+        <link rel="stylesheet" href="../../header/header.css" />
+        <script src="../side-bar/side-bar.js"></script>
+        <script src="../../header/header.js"></script>
+        <script src="../home/home.js"></script>
+    </head>
+    <body>
+        <header-comp></header-comp>
+        <main class="main">
+            <side-bar></side-bar>
+            <div class="content">
+                <div>
+                    <h2>Notícias recentes</h2>
+                    <span>Saiba mais sobre as últimas notícias da área da saúde</span>
+                </div>
+
+                <div onclick="agendarExame()">
+                    <h2>Exames</h2>
+                    <span >Clique aqui para agendar seus exames</span>
+                </div>
+
+                <div onclick="agendarConsulta()">
+                    <h2>Consultas</h2>
+                    <span >Clique aqui para agendar seus exames</button>
+                </div>
+
+                <div>
+                    <h2>Agenda</h2>
+                    <span>Fique por dentro do calendário do SUS em sua região</span>
+                </div>
+            </div>
+        </main>
+    </body>
+    
+</html>

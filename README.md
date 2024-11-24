@@ -1,25 +1,24 @@
-# Título do Projeto
+# FacilitaSUS
 
-`CURSO`
+`Tecnologia em Análise e Desenv. de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`2024.2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O FacilitaSUS se trata do desenvolvimento de um sistema para integração entre o SUS e os pacientes na tratativa de marcação de exames.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Everton Souza
+* Mateus Falcão
+* Italo Poccheshy
+* Mellyssa Rabelo
+* Luana Gomes
 
 ## Orientador
 
-* Nome completo do professor
+* Humberto Nigri
 
 # Documentação
 
@@ -32,7 +31,17 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 <li><a href="documentos/06-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
 <li><a href="documentos/07-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="documentos/08-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="documentos/09-Referências.md"> Referências Bibliográficas</a></li>
+<li><a href="documentos/09-Referências.md"> Referências Bibliográficas 
+
+IBGE, Agência de Notícias. PNS 2019: sete em cada dez pessoas que procuram o mesmo serviço de saúde vão à rede pública. Agência IBGE, 04 de setembro de 2020. Disponível em: <https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/28793-pns-2019-sete-em-cada-dez-pessoas-que-procuram-o-mesmo-servico-de-saude-vao-a-rede-publica. Acesso em: 28 de agosto de 2024.> acesso em 18 de Setembro de 2024, as 20:24.
+
+Mendes, M. F., & Ribeiro, R. S. (2021). Metodologias Ágeis: Implementação e Resultados no Contexto Brasileiro. São Paulo: Editora Atlas.
+
+
+Sabbagh, C. M., Silva, J. F., & Martins, L. A. (2020). SCRUM no Brasil: Teoria e Prática. Rio de Janeiro: Elsevier.
+
+
+</a></li>
 </ol>
 
 # Hospedagem
