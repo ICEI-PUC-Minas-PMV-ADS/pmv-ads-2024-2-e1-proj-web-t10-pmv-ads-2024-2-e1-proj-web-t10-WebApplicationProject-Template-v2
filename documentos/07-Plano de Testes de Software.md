@@ -81,7 +81,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>RF-05: A aplicação deve oferecer a funcionalidade de filtro/pesquisa, que permita que o usuário localize skins.</li>
    </ul>
   </td>
-  <td>Validar a funcionalidade de de filtro de pesquisa.</td>
+  <td>Validar a funcionalidade de filtro de pesquisa.</td>
   <td>
    <ol>
     <li>Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-2-E1-Proj-Projeto-Shelf-Skins/</li>
