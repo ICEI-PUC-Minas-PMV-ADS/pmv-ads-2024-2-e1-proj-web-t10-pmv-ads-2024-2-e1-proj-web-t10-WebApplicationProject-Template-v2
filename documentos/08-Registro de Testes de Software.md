@@ -1,12 +1,23 @@
 # Registro de Testes de Software
 
-Relatório com as evidências dos testes de software realizados na aplicação pela equipe, baseado no plano de testes pré-definido.
+Os testes funcionais realizados na aplicação web serão descritos a seguir.
 
-Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste executado]
+<ol>
+  <li> CT-01: Verificar o funcionamento da tela de cadastro do usuário.
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
-| Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+![image](https://github.com/user-attachments/assets/5116785f-d061-4bd4-bc69-93c25816cd52)
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+</li>
+  <hr>
+
+ <li> CT-02: Verificar o funcionamento do login de usuário.
+
+  <p>Tela de login:</p>
+  
+ ![image](https://github.com/user-attachments/assets/cb950da8-a8c8-4be1-b1d7-02358b3dbbfe)
+
+   <p>Após logar na sua conta, o usuário é direcionado para a tela de anúncios:</p>
+   
+![image](https://github.com/user-attachments/assets/487e2fb5-9a38-4323-b96f-5643774205b7)
+
+

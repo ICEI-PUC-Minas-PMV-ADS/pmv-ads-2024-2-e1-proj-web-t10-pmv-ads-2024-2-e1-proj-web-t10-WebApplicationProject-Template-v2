@@ -1,25 +1,24 @@
-# Título do Projeto
+# Shelf Skins
 
-`CURSO`
+Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Desenvolvimento de aplicação Front-End
 
-`SEMESTRE`
+Primeiro semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Criação de um site seguro de fácil usabilidade para troca, compra e venda de skins de jogos online que possuam este tipo de mercado.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Arthur Veloso Moura
+* Gustavo da Silva Rangel
+* João Víctor Santos de Almeida
+* Kevin Eduardo F. V. da Silveira
+* Lucas Reis Esteves
 
 ## Orientador
 
-* Nome completo do professor
+* Humberto Azevedo Nigri do Carmo
 
 # Documentação
 
