@@ -1,41 +1,22 @@
-# Programação de Funcionalidades
+<!doctype html>
+<html>
 
-Implementação da aplicação descritas por meio dos requisitos codificados.
-O Projeto Cidaddania Digital, desenvolveu um acesso prático e dinâmico, para pessoas com idades de 45 anos a 60 anos com dificuldades ou limitações em acessar sites ou até mesmo o preenchimento de cadastro ou formulários.
-Aplica-se com tutorias e videos para o esclarecimento de dúvidas, criando também uma fidelidade em um cadastro no mesmo, sendo assim possuindo uma aproximidade ao usuário na prática de suas necessidades como:
-Tutorais com passo a passo e Videos; 
-Agendamento de Consultas e Exames;
-Informações sobre Aposentadorias;
-Área especial para Deficientes(PCD);
-Momento Entertenimento;
-Fale Conosco;
-E uma central com Dúvidas Frequentes;
-Área de Pesquisa e Busca.
+<head>
+  <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+  
+  <div class="header">
+    <h1>CIDADANIA DIGITAL</h1>
+    <p>Ativos em Maturidade e Saúde.</p>
+  </div>
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
-
-
-### Título da funcionalidade
-
-![imagem Page 1 Cidadania Digital Etapa 3](https://github.com/user-attachments/assets/40083303-35dd-40df-82dc-727ff676cc03)
-
-[Adicione imagem da funcionalidade/tela]
-
-#### Requisito atendido
-Os elementos inceridos na barra principal ficou bem visível, e de fácil acesso ao usurário, para que sua navegação seja de modo intuitiva.
-
-[RF-X: adicione a descrição do requisito atendido]
-
-
-#### Artefatos da funcionalidade
-
-Código de pesquisa e busca.
   <form>
     <input type="search" name="q" placeholder="Pesquisar" />
     <input type="submit" value="Buscar" />
   </form>
-Código de Barra Principal da Página
-<div class="topnav">
+
+  <div class="topnav">
     <a href="#">QUEM SOMOS</a>
     <a href="#">TUTORIAIS</a>
     <a href="#">AGENDAMENTOS</a>
@@ -44,9 +25,41 @@ Código de Barra Principal da Página
     <a href="#">ENTERTENIMENTO</a>
     <a href="#" style="float:right">FALE CONOSCO</a>
   </div>
-
-Código de Cadastro para Usuários
-<div class="rightcolumn">
+<main>
+  <div class="row">
+    <div class="leftcolumn">
+      <div class="card">        
+        <h2>CONECTE-SE</h2> 
+        <img src="idosos1.jpg.jpg"
+        <div class="fakeimg" style="height: 350px"; style="width: 150px";"</div>    
+        <p>Cidadania Digital é essencial em especial os idosos, enfrentam dificuldades com tecnologias.
+          O projeto "Cidadania Digital" visa simplificar o acesso a serviços essenciais,
+          como sites governamentais e ferramentas essenciais, por meio de uma plataforma inclusiva
+          que oferece guias e tutoriais.</p>
+        <p>O objetivo é promover a autonomia e facilidade ao acesso a informações importantes de maneira rápida e
+          dinâmica.</p>
+      </div>
+      <div class="card">
+        <h2>USUÁRIOS</h2>
+        <img src="idosos2.jpg.jpg"
+        <div class="fakeimg" style="height:450px;" </div>
+        <p>Os efeitos da exclusão digital podem atingir pessoas de diferentes idades e locais,
+          mas o foco deste projeto está principalmente na acessibilidade para usuários idosos com mais de 60 anos.
+          Esse grupo enfrenta dificuldades para acessar serviços digitais devido à pouca familiaridade com tecnologia
+          e limitações físicas. Além dos idosos, adultos entre 45 e 59 anos também são considerados, pois, apesar de
+          possuírem conhecimentos básicos de tecnologia, necessitam de uma ferramenta confiável para gerenciar serviços
+          relacionados ao trabalho, saúde e finanças. Ambos os grupos demandam interfaces simples e tutoriais
+          detalhados para facilitar a navegação em plataformas governamentais e bancárias, que muitas vezes são
+          complexas demais
+          para seus níveis de experiência.</p>
+        <p>Outro grupo relevante são os cuidadores e familiares que assistem idosos no dia a dia e
+          frequentemente auxiliam com questões tecnológicas. Esses usuários geralmente possuem um conhecimento
+          intermediário de tecnologia e se beneficiariam de uma plataforma fácil de entender, que lhes permita orientar
+          e apoiar os
+          idosos de forma eficaz.</p>
+      </div>
+    </div>
+    <div class="rightcolumn">
       <div class="card">
         <h2>Cadastre-se</h2>
         <div <form action="/signup" method="post">
@@ -100,7 +113,6 @@ Código de Cadastro para Usuários
           </form>
           <p>Tenha uma experiência dinâmica e prática conosco.</p>
         </div>
-        Código para as Sugestões
         <div>
           <form action="/subscribe" method="post">
             <fieldset>
@@ -113,7 +125,7 @@ Código de Cadastro para Usuários
                 <label for="celular">Celular</celular>:</label>
                 <input type="celular" class="form-control" id="celular">
                 <div class="form-group">
-                  <label for="comment">Esvreva aqui:</label>
+                  <label for="comment">Escreva aqui:</label>
                   <textarea class="form-control" rows="5" id="comment"></textarea>
                 </div>
               </div>
@@ -121,9 +133,10 @@ Código de Cadastro para Usuários
             </fieldset>
         </div>
         </form>
-
-        Códigos para as Dúvidas
- <aside>
+      </div>
+    </div>
+  </div>
+  <aside>
     <h2>DÚVIDAS</h2>
     <ul>
       <li><a href="#">NÃO CONSIGO FAZER O LOGIN</a></li>
@@ -134,29 +147,11 @@ Código de Cadastro para Usuários
       <li><a href="#">TUDO SOBRE FGTS</a></li>
     </ul>
   </aside>
-
-  [Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
-
-#### Instruções de acesso
-
-Ao selecionar e clicar, o usuário será direcionado para outra página no qual foi escolhido.
-Possui um cadastro com adicionais do gênero masculino ou feminino, nome completo,e-mail, número de celular, e a criação de uma senha, selecionar de qual estado do Brasil o usuário reside, possui também o termo e condições ao finalizar o cadastro, a seguir existe uma central com Dúvidas Frequentes na qual o usuário pode se identificar e ou selecionar será direcional para outra página resolvento suas dúvidas.
-Existe um quadro de Sugestões no fim da página, caso não foi solucionado alguma necesidade do usuário para que podemos nos atualizar e criar elementos para atende-los. 
-
-[Adicione as orientações de acesso à funcionalidade]
-#### Responsável
-Ariel filipe Nascimento
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
-
-
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
-
+</main>
+<footer class="footer">
+  <div class="container">
+  <p>&copy; 2024 Cidadania Digital, PUC Virtual</p>
+  </div>
+</footer>
+</body>
+</html>

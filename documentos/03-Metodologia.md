@@ -1,7 +1,8 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
+Uma equipe de desenvolvimento foi formada para criar um site de inclusão digital. A equipe desta etapa é composta por dois desenvolvedores iniciantes de front-end. Para organizar as atividades, a equipe utiliza a metodologia ágil, realizando reuniões semanais para acompanhar o progresso e ajustar as prioridades.
+Para a construção do site, utilizamos o visual studio como principal ambiente de desenvolvimento.
 
 
 ## Gerenciamento de Projeto
@@ -11,12 +12,11 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
+
+- Scrum Master: Ariel Nascimento 
+- Product Owner: Julia Gonçalves 
+- Equipe de Desenvolvimento: Ariel Nascimento e Júlia Gonçalves.
+- Equipe de Design: Ariel Nascimento e Júlia Gonçalves 
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
@@ -57,16 +57,18 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+Ferramenta empregada no projeto:
+
+Visual Studio 
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Repositório de código fonte         | GitHub                             |   https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital                        |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital/blob/main/documentos/06-Programa%C3%A7%C3%A3o%20de%20Funcionalidades.md                        |
+| Projeto de Interface                | Figma                              | [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital/blob/main/documentos/04-Projeto%20de%20Interface.md](https://private-user-images.githubusercontent.com/181910685/380545084-40083303-35dd-40df-82dc-727ff676cc03.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwNzcyODMsIm5iZiI6MTczMDA3Njk4MywicGF0aCI6Ii8xODE5MTA2ODUvMzgwNTQ1MDg0LTQwMDgzMzAzLTM1ZGQtNDBkZi04MmRjLTcyN2ZmNjc2Y2MwMy5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTAyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDEwMjhUMDA1NjIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTdmMjM3MGNkNDZlMjJhZDUzYjNlNDY4N2MxOTJjZmZiYWJjZTcyOTEwNGYzZmY0NWU5MzAwNzZlMjNhZGJhNiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.ZN1T_OzLB6GxIhGRjIIBjPPig0Mh6UcbOZbYnVEktTE)                            |
+| Gerenciamento do Projeto            | GitHub Projects                    |   https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital                        |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 

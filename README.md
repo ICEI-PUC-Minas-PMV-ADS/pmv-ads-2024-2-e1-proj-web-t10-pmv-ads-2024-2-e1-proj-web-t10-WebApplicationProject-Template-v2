@@ -1,25 +1,23 @@
-# Título do Projeto
+# Cidadania Digital
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`2024/2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+A inclusão digital é essencial para a cidadania, mas muitos, especialmente os idosos, enfrentam dificuldades com tecnologias. O projeto "Cidadania Digital" visa simplificar o acesso a serviços essenciais, como sites governamentais e ferramentas essenciais, por meio de uma plataforma inclusiva que oferece guias e tutoriais. O objetivo é promover a autonomia dos usuários e facilitar o acesso a informações importantes de maneira rápida e sem constrangimentos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Ariel Filipe Nascimento
+* Júlia Gonçalves Viana
+
+
 
 ## Orientador
 
-* Nome completo do professor
+* Humberto Azevedo Nigri do Carmo
 
 # Documentação
 
