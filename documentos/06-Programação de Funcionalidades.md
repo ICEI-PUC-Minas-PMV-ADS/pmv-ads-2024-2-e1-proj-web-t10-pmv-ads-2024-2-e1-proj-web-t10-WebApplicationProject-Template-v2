@@ -149,32 +149,6 @@ RF-09: A aplicação deve mostrar ao usuário o preço que o vendedor colocou.
 
 Responsável: Gustavo
 
-### Tela de forma de pagamento (RF-10)
-
-O acesso a tela de forma de pagamento poderá ser feito clicando em "comprar" nas skins mostradas na página de anúncios. As estruturas de dados foram baseadas em HTML, CSS e JS.
-
-Exemplo da tela de cadastro de skin:
-
-*COLOCAR O PRINT DA PAGINA DE FORMAS DE PAGAMENTO*
-
-### Requisito atendido
-
-RF-10: A aplicação deve permitir que o usuário realize compras seguras.	
-
-### Artefatos da funcionalidade
-
-● Pagamento.html
-
-● pagamentos.css
-
-### Instruções de acesso
-
-1- Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-2-E1-Proj-Projeto-Shelf-Skins/
-
-2- Na página de skins de CS, Dota 2 ou Pubg ao clicar em "comprar" em qualquer anúncio, terá acesso a página de formas de pagamento.
-
-Responsável: Kevin
-
 ### Tela de Pagamento PIX e CARTÃO (RF-10)
 
 O acesso a tela de pagamento PIX e CARTÃO DE CREDITO poderá ser feito clicando nas skins mostradas na página de anúncios e depois clicando na forma de pagamento desejada. As estruturas de dados foram baseadas em HTML, CSS e JS.
