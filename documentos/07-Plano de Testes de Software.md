@@ -15,7 +15,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>RF-001: Verificar o funcionamento da tela de cadastro do usuário.</td>
+  <td>CT-01: Verificar o funcionamento da tela de cadastro do usuário.</td>
   <td>
    <ul>
     <li>RF-001:	O site deve permitir ao usuário cadastrar uma conta.</li>
@@ -45,7 +45,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>RF-001: Verificar o funcionamento do login de usuário.</td>
+  <td>CT-02: Verificar o funcionamento do login de usuário.</td>
   <td>
    <ul>
     <li>RF-002: O site deve permitir ao usuário fazer o login da sua conta.</li>
@@ -62,5 +62,95 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </td>
   <td>A conta do usuário deverá estar criada para conseguir realizar o login.</td>
   <td>Lucas</td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso teste</th>
+  <th>Requisitos</th>
+  <th>Objetivo do teste</th>
+  <th>Instruções</th>
+  <th>Critérios de êxecução</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-03: Verificar o funcionamento da tela de acesso aos anúncios.</td>
+  <td>
+   <ul>
+    <li>RF-05: A aplicação deve oferecer a funcionalidade de filtro/pesquisa, que permita que o usuário localize skins.</li>
+   </ul>
+  </td>
+  <td>Validar a funcionalidade de de filtro de pesquisa.</td>
+  <td>
+   <ol>
+    <li>Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-2-E1-Proj-Projeto-Shelf-Skins/</li>
+    <li>Ao realizar seu login, terá acesso a página de anúncios.</li>
+    <li>Para realizar uma pesquisa, basta escrever no campo disponível o que deseja buscar e clicar na lupa ao lado direito.</li>
+    <li>Ao clicar na lupa, serão listados somentes anúncios referêntes aos jogos/assuntos buscados.</li>
+   </ol>
+   </td>
+  <td>Para realizar uma busca, o campo de pesquisa deverá estar preenchido.</td>
+  <td>João/td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso teste</th>
+  <th>Requisitos</th>
+  <th>Objetivo do teste</th>
+  <th>Instruções</th>
+  <th>Critérios de êxecução</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-04: Validar o processo de criação de anúncios.</td>
+  <td>
+   <ul>
+    <li>RF-04: A aplicação deve permitir ao usuário o cadastramento de skins.</li>
+   </ul>
+  </td>
+  <td>Verificar a possibilidade de criação de anúncios.</td>
+  <td>
+   <ol>
+    <li>Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-2-E1-Proj-Projeto-Shelf-Skins/</li>
+    <li>Ao clicar em "ANUNCIAR" na página de anúncios do site, terá acesso a página de anúnciar a skin.</li>
+    <li>Para realizar o anúncio, preencha o nome da Skin, selecione o jogo da skin, busque uma imagem da mesma e preencha o valor desejado.</li>
+    <li>Para confirmar seu anúncio, clique no botão "Anunciar".</li>
+   </ol>
+   </td>
+  <td>Todos os campos deverão estar preenchido para permitir criar um anúncio no site.</td>
+  <td>Kevin/td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso teste</th>
+  <th>Requisitos</th>
+  <th>Objetivo do teste</th>
+  <th>Instruções</th>
+  <th>Critérios de êxecução</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-05: Validar processo de selecionar um anúncio e prosseguir para compra.</td>
+  <td>
+   <ul>
+    <li>RF-09: A aplicação deve mostrar ao usuário o preço que o vendedor colocou.</li>
+   </ul>
+  </td>
+  <td>Validar processo de selecionar um anúncio e prosseguir para compra.</td>
+  <td>
+   <ol>
+    <li>Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-2-E1-Proj-Projeto-Shelf-Skins/</li>
+    <li>Na página de anúncios ao clicar em qualquer anúncio, terá acesso a página de skin do jogo selecionado.</li>
+    <li>Para realizar a compra de uma skin, basta clicar na opção "Comprar".</li>
+    <li>Ao fazer isso, o usuário será transfêrido para a tela de dados de pagamento.</li>
+   </ol>
+   </td>
+  <td>Para realizar a compra, o usuário deverá estar logado em sua conta.</td>
+  <td>Gustavo/td>
  </tr>
 </table>
