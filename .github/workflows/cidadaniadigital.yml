@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Promovendo a cidadania digital e educação para a navegação segura no mundo digital.">
+    <meta name="keywords" content="cidadania digital, educação digital, segurança online, privacidade, internet">
+    <meta name="author" content="Cidadania Digital">
+    <title>Cidadania Digital</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="img/favicon.ico">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="C:\Users\carla\teste\images.png" alt="Logo Cidadania Digital">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="quem-somos.html">Quem Somos</a></li>
+                <li><a href="servicos.html">Serviços</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="faq.html">FAQ</a></li>
+                <li><a href="contato.html">Fale Conosco</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-text">
+            <h1>Cidadania digital</h1>
+            <p>Capacitação Digital para Cidadãos Informados   </p>
+            <a href="quem-somos.html" class="cta-button">Saiba Mais</a>
+        </div>
+    </section>
+
+    <section class="login">
+        <h2>Área de Login</h2>
+        <form id="login-form">
+            <label for="username">Nome de Usuário:</label>
+            <input type="text" id="username" name="username" required>
+            
+            <label for="password">Senha:</label>
+            <input type="password" id="password" name="password" required>
+            
+            <button type="submit">Entrar</button>
+        </form>
+    </section>
+
+    <section class="about">
+        <h2>O que é Cidadania Digital?</h2>
+        <p>A Cidadania Digital envolve o uso responsável da tecnologia, promovendo o aprendizado sobre segurança online, privacidade, e ética na internet.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Cidadania Digital | PUC MINAS </p>
+        <ul>
+            <li><a href="https://facebook.com" target="_blank">Facebook</a></li>
+            <li><a href="https://twitter.com" target="_blank">Twitter</a></li>
+            <li><a href="https://instagram.com" target="_blank">Instagram</a></li>
+        </ul>
+    </footer>
+
+    <script src="js/script.js"></script>
+    <script>
+        // Validação do formulário de login
+        document.querySelector("#login-form").addEventListener("submit", function(event) {
+            event.preventDefault(); // Impede o envio real do formulário
+            
+            const username = document.querySelector("#username").value;
+            const password = document.querySelector("#password").value;
+
+            if (username === "" || password === "") {
+                alert("Por favor, preencha todos os campos.");
+                return;
+            }
+
+            alert("Login realizado com sucesso!");
+        });
+    </script>
+</body>
+</html>
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
