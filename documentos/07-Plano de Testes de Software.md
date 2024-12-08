@@ -154,3 +154,33 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Gustavo/td>
  </tr>
 </table>
+
+<table>
+ <tr>
+  <th>Caso teste</th>
+  <th>Requisitos</th>
+  <th>Objetivo do teste</th>
+  <th>Instruções</th>
+  <th>Critérios de êxecução</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-06: Validando processo de compra de skin.</td>
+  <td>
+   <ul>
+    <li>RF-10: A aplicação deve permitir que o usuário realize compras seguras.</li>
+   </ul>
+  </td>
+  <td>Permitir que o usuário realize compras de skins de forma seguras pelo site.</td>
+  <td>
+   <ol>
+    <li>Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-2-E1-Proj-Projeto-Shelf-Skins/</li>
+    <li>Na página de formas de pagamento, ao selecionar a forma de pagamento, o usuário terá acesso a página da forma de pagamento desejada.</li>
+    <li>Caso escolha a opção PIX, terá a opção de QR Code ou copiar a chave pix do vendedor.</li>
+    <li>Caso deseje pagar por cartão de crédito, preencha os campos necessários e clique em "Confirmar Pagameneto".</li>
+   </ol>
+   </td>
+  <td>Para finalizar a compra, o usuário deverá estar logado em sua conta e informar seus dados para realização do págamento.</td>
+  <td>Kevin/td>
+ </tr>
+</table>
