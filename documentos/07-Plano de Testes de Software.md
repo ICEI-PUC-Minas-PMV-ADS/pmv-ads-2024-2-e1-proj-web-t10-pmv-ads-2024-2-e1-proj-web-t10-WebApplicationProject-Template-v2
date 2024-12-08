@@ -91,7 +91,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Para realizar uma busca, o campo de pesquisa deverá estar preenchido.</td>
-  <td>João/td>
+  <td>João</td>
  </tr>
 </table>
 
