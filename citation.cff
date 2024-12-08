@@ -1,22 +1,17 @@
 cff-version: 1.0.1
-message: Sistema para planejamento de viagens
-title: Mochileiros
+message:Inclusão digital
+title: Cidadania Digital
 authors:
-  - family-names: Menezes Matias da Silva
-    given-names: João Pedro
-  - family-names: Fonseca Amorim
-    given-names: Igor 
-  - family-names: Almeida Dias 
-    given-names: Luiz Fernando 
-  - name-suffix: Professora
-    affiliation: PUC Minas
-    family-names: De Nardin
-    given-names: Luciana
+  - family-names: Nascimento
+    given-names: Ariel
+  - family-names: Gonçalves Viana
+    given-names: Júlia  
 keywords:
-  - viagens
-  - mochileiros
-  - gastos
+  - uso de tecnologia
+  - proteção da privacidade
+  - preveção de golpes
+  - ambiente seguro
 repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-mochileiros
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2024-06-26
+date-released: 2024-12-08
