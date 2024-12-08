@@ -8,5 +8,5 @@ function validarFormulario() {
         alert("Por favor, preencha todos os campos.");
         return false;
     }
-    window.location.href = 'tela_de_login.html';
+    window.location.href = './codigo-fonte/HTML/tela_de_login.html';
 }
