@@ -1,4 +1,4 @@
-/* :root {
+:root {
     --cor-principal: #fff;
     --cor-secundaria: #7b7bf8;
     --cor-terciaria: #000000;
@@ -81,4 +81,4 @@
 #return-button{
     font-weight: bold;
     box-shadow: 5px 5px 1px var(--cor-quaternaria);
-} */
+}
