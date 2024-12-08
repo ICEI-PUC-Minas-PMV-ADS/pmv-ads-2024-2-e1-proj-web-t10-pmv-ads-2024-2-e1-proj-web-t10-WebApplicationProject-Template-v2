@@ -121,7 +121,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os campos deverão estar preenchido para permitir criar um anúncio no site.</td>
-  <td>Kevin/td>
+  <td>Kevin</td>
  </tr>
 </table>
 
@@ -151,7 +151,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Para realizar a compra, o usuário deverá estar logado em sua conta.</td>
-  <td>Gustavo/td>
+  <td>Gustavo</td>
  </tr>
 </table>
 
@@ -181,6 +181,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Para finalizar a compra, o usuário deverá estar logado em sua conta e informar seus dados para realização do págamento.</td>
-  <td>Kevin/td>
+  <td>Kevin</td>
  </tr>
 </table>
