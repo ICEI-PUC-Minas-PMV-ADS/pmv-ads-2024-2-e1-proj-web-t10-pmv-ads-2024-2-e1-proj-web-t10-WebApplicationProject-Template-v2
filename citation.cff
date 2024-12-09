@@ -1,17 +1,27 @@
-cff-version: 1.0.1
-message:Inclusão digital
-title: Cidadania Digital
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Inclusão Digital
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - family-names: Filipe Nascimento
-    given-names: Ariel
-  - family-names: Gonçalves Viana
-    given-names: Júlia  
+  - given-names: Ariel
+    family-names: Filipe Nascimento
+  - given-names: 'Júlia '
+    family-names: Gonçalves Viana
+identifiers:
+  - type: url
+    value: >-
+      https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital/codigo-fonte/ETAPA%204/blog.html
+    description: Cidadania Digital
+url: >-
+  https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital/codigo-fonte/ETAPA%204/blog.html
 keywords:
-  - uso de tecnologia
-  - proteção da privacidade
-  - preveção de golpes
-  - ambiente seguro
-repository-code: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital/codigo-fonte/ETAPA%204/index.html
-license: CC-BY-4.0
-version: 1.0.0
-date-released: 2024-12-08
+  - citation
+license: Apache-2.0
+commit: Commit Identifier
+version: 1.2.0
+date-released: '2024-12-08'
