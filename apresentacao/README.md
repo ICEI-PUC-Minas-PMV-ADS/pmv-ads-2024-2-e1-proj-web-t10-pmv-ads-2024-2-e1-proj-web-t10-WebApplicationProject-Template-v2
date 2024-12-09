@@ -28,4 +28,4 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 [Adicione vídeo de apresentação.]
 
 ## Hospedagem
-https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital/codigo-fonte/ETAPA%204/blog.html
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital/codigo-fonte/ETAPA%204/index.html
