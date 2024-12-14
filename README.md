@@ -35,7 +35,7 @@ A inclusão digital é essencial para a cidadania, mas muitos, especialmente os 
 
 # Hospedagem
 
-* https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital/codigo- fonte/ETAPA%204/index.html
+* https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital/codigo-fonte/ETAPA%204/index.html
 
 # Código-Fonte
 
