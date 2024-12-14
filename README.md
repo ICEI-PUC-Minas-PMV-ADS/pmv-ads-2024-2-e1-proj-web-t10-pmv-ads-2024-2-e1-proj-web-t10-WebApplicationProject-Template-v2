@@ -40,7 +40,7 @@ Criação de um site seguro de fácil usabilidade para troca, compra e venda de 
 
 # Código-Fonte
 
-* <a href="[codigo-fonte/README.md](https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-2-E1-Proj-Projeto-Shelf-Skins/tree/main/codigo-fonte)">Código Fonte</a>
+* <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/PMV-ADS-2024-2-E1-Proj-Projeto-Shelf-Skins/tree/main/codigo-fonte">Código Fonte</a>
 
 # Apresentação
 
