@@ -25,7 +25,7 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 > - resolução HD (720p) ou Full HD (1080p)
 > - formato mp4.
 
-[Adicione vídeo de apresentação.]
+[apresentacao/Video Cidadania Digital Etapa 5.mp4]
 
 ## Hospedagem
 https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-2-e1-proj-web-t10-pmv-ads-2024-2-e1-proj-inclusaodigital/codigo-fonte/ETAPA%204/index.html
