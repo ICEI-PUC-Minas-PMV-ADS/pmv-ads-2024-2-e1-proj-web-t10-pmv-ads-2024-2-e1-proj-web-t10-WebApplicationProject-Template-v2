@@ -36,7 +36,7 @@ Criação de um site seguro de fácil usabilidade para troca, compra e venda de 
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* <a href="https://icei-puc-minas-pmv-ads.github.io/PMV-ADS-2024-2-E1-Proj-Projeto-Shelf-Skins/">Site Hospedado</a>
 
 # Código-Fonte
 
